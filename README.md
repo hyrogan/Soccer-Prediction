@@ -35,4 +35,7 @@ Scarf, P. & Rangel, J. S., Jr. (2016). Models for Outcomes of Soccer Matches. In
 
 Tsokos, A., Narayanan, S., Kosmidis, I. et al. (2019). Modeling outcomes of soccer matches. Mach Learn 108, 77–95. https://doi.org/10.1007/s10994-018-5741-1
 
+![3d_plot_gs_1](https://github.com/hyrogan/Soccer-Prediction/assets/79753379/856ad9af-0f58-4d28-8e63-898de76de62b)
+
+
 
