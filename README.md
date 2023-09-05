@@ -1,4 +1,4 @@
-# Soccer match outcome prediction with priors
+# From Ratings to Results: Advanced Predictive Modeling for Soccer Outcomes
 
 ### Problem definition of the Bachelor Thesis
 
