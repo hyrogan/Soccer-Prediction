@@ -1,0 +1,639 @@
+Cup,season,round,Date,HomeTeam,AwayTeam,competition_type,FTHG,FTAG,FTR,HomeDiv,AwayDiv,Div
+CIT,2016,Second Round,2016-08-07,Benevento Calcio,US Salernitana 1919,domestic_cup,2,4,A,ITA1,ITA2,DCUP
+CIT,2016,Third Round,2016-08-12,Genoa CFC,US Lecce,domestic_cup,3,2,H,ITA1,ITA2,DCUP
+CIT,2016,Third Round,2016-08-13,Delfino Pescara 1936,Frosinone Calcio,domestic_cup,2,0,H,ITA2,ITA2,DCUP
+CIT,2016,Third Round,2016-08-13,Atalanta BC,US Cremonese,domestic_cup,3,0,H,ITA1,ITA2,DCUP
+CIT,2016,Third Round,2016-08-13,Udinese Calcio,Spezia Calcio,domestic_cup,2,3,A,ITA1,ITA1,DCUP
+CIT,2016,Third Round,2016-08-14,Hellas Verona,FC Crotone,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CIT,2016,Third Round,2016-08-15,Cagliari Calcio,SPAL,domestic_cup,5,1,H,ITA1,ITA2,DCUP
+CDR,2016,Second Round Replay,2016-09-06,UD Almería,Rayo Vallecano,domestic_cup,0,2,A,ESP2,ESP2,DCUP
+CDR,2016,Second Round Replay,2016-09-07,Cádiz CF,Levante UD,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+CDR,2016,Second Round Replay,2016-09-07,Real Zaragoza,Real Valladolid CF,domestic_cup,1,2,A,ESP2,ESP1,DCUP
+CDR,2016,Second Round Replay,2016-09-08,SD Huesca,Girona FC,domestic_cup,1,0,H,ESP1,ESP2,DCUP
+DFB,2016,Second Round,2016-10-25,Borussia Mönchengladbach,VfB Stuttgart,domestic_cup,2,0,H,DEU1,DEU1,DCUP
+DFB,2016,Second Round,2016-10-26,Bayern Munich,FC Augsburg,domestic_cup,3,1,H,DEU1,DEU1,DCUP
+DFB,2016,Second Round,2016-10-26,SpVgg Greuther Fürth,1.FSV Mainz 05,domestic_cup,2,1,H,DEU2,DEU1,DCUP
+DFB,2016,Second Round,2016-10-26,Hannover 96,Fortuna Düsseldorf,domestic_cup,6,1,H,DEU2,DEU2,DCUP
+DFB,2016,Second Round,2016-10-26,1.FC Heidenheim 1846,VfL Wolfsburg,domestic_cup,0,1,A,DEU2,DEU1,DCUP
+DFB,2016,Second Round,2016-10-26,1.FC Nuremberg,FC Schalke 04,domestic_cup,2,3,A,DEU2,DEU1,DCUP
+DFB,2016,Second Round,2016-10-26,Borussia Dortmund,1.FC Union Berlin,domestic_cup,4,1,H,DEU1,DEU1,DCUP
+CDR,2016,intermediate stage 1st leg,2016-11-29,CD Leganés,Valencia CF,domestic_cup,1,3,A,ESP2,ESP1,DCUP
+CDR,2016,intermediate stage 1st leg,2016-11-29,Sporting Gijón,SD Eibar,domestic_cup,1,2,A,ESP2,ESP1,DCUP
+CDR,2016,intermediate stage 1st leg,2016-11-30,Granada CF,CA Osasuna,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+CIT,2016,Fourth Round,2016-11-30,Atalanta BC,Delfino Pescara 1936,domestic_cup,3,0,H,ITA1,ITA2,DCUP
+CIT,2016,Fourth Round,2016-11-30,UC Sampdoria,Cagliari Calcio,domestic_cup,3,0,H,ITA1,ITA1,DCUP
+CDR,2016,intermediate stage 1st leg,2016-12-01,Real Valladolid CF,Real Sociedad,domestic_cup,1,3,A,ESP1,ESP1,DCUP
+CDR,2016,intermediate stage 1st leg,2016-12-01,SD Huesca,UD Las Palmas,domestic_cup,2,2,D,ESP1,ESP2,DCUP
+CIT,2016,Fourth Round,2016-12-01,Bologna FC 1909,Hellas Verona,domestic_cup,4,0,H,ITA1,ITA1,DCUP
+CDR,2016,intermediate stage 2nd leg,2016-12-20,UD Las Palmas,SD Huesca,domestic_cup,2,1,H,ESP2,ESP1,DCUP
+CDR,2016,intermediate stage 2nd leg,2016-12-20,Real Sociedad,Real Valladolid CF,domestic_cup,1,1,D,ESP1,ESP1,DCUP
+CDR,2016,intermediate stage 2nd leg,2016-12-21,SD Eibar,Sporting Gijón,domestic_cup,3,1,H,ESP1,ESP2,DCUP
+CDR,2016,intermediate stage 2nd leg,2016-12-21,CA Osasuna,Granada CF,domestic_cup,2,0,H,ESP1,ESP1,DCUP
+CDR,2016,intermediate stage 2nd leg,2016-12-21,Valencia CF,CD Leganés,domestic_cup,2,1,H,ESP1,ESP2,DCUP
+CDR,2016,last 16 1st leg,2017-01-03,UD Las Palmas,Atlético de Madrid,domestic_cup,0,2,A,ESP2,ESP1,DCUP
+CDR,2016,last 16 1st leg,2017-01-03,CA Osasuna,SD Eibar,domestic_cup,0,3,A,ESP1,ESP1,DCUP
+CDR,2016,last 16 1st leg,2017-01-03,Valencia CF,Celta de Vigo,domestic_cup,1,4,A,ESP1,ESP1,DCUP
+CDR,2016,last 16 1st leg,2017-01-04,Real Sociedad,Villarreal CF,domestic_cup,3,1,H,ESP1,ESP1,DCUP
+CDR,2016,last 16 1st leg,2017-01-04,Real Madrid,Sevilla FC,domestic_cup,3,0,H,ESP1,ESP1,DCUP
+CDR,2016,last 16 1st leg,2017-01-05,Athletic Bilbao,FC Barcelona,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+FAC,2016,Third Round,2017-01-06,West Ham United,Manchester City,domestic_cup,0,5,A,ENG1,ENG1,DCUP
+FAC,2016,Third Round,2017-01-07,Manchester United,Reading FC,domestic_cup,4,0,H,ENG1,ENG2,DCUP
+FAC,2016,Third Round,2017-01-07,Everton FC,Leicester City,domestic_cup,1,2,A,ENG1,ENG1,DCUP
+FAC,2016,Third Round,2017-01-07,Norwich City,Southampton FC,domestic_cup,2,2,D,ENG2,ENG1,DCUP
+FAC,2016,Third Round,2017-01-07,Stoke City,Wolverhampton Wanderers,domestic_cup,0,2,A,ENG2,ENG1,DCUP
+FAC,2016,Third Round,2017-01-08,Cardiff City,Fulham FC,domestic_cup,1,2,A,ENG2,ENG1,DCUP
+FAC,2016,Third Round,2017-01-08,Tottenham Hotspur,Aston Villa,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+CDR,2016,last 16 2nd leg,2017-01-10,Atlético de Madrid,UD Las Palmas,domestic_cup,2,3,A,ESP1,ESP2,DCUP
+CIT,2016,Round of 16,2017-01-10,SSC Napoli,Spezia Calcio,domestic_cup,3,1,H,ITA1,ITA1,DCUP
+CDR,2016,last 16 2nd leg,2017-01-11,Villarreal CF,Real Sociedad,domestic_cup,1,1,D,ESP1,ESP1,DCUP
+CDR,2016,last 16 2nd leg,2017-01-11,FC Barcelona,Athletic Bilbao,domestic_cup,3,1,H,ESP1,ESP1,DCUP
+CIT,2016,Round of 16,2017-01-11,Juventus FC,Atalanta BC,domestic_cup,3,2,H,ITA1,ITA1,DCUP
+CIT,2016,Round of 16,2017-01-11,ACF Fiorentina,Chievo Verona,domestic_cup,1,0,H,ITA1,ITA2,DCUP
+CDR,2016,last 16 2nd leg,2017-01-12,Celta de Vigo,Valencia CF,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+CDR,2016,last 16 2nd leg,2017-01-12,SD Eibar,CA Osasuna,domestic_cup,0,0,D,ESP1,ESP1,DCUP
+CDR,2016,last 16 2nd leg,2017-01-12,Sevilla FC,Real Madrid,domestic_cup,3,3,D,ESP1,ESP1,DCUP
+CIT,2016,Round of 16,2017-01-12,AC Milan,Torino FC,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CIT,2016,Round of 16,2017-01-17,Inter Milan,Bologna FC 1909,domestic_cup,3,2,H,ITA1,ITA1,DCUP
+CDR,2016,Quarter-Finals 1st leg,2017-01-18,Real Madrid,Celta de Vigo,domestic_cup,1,2,A,ESP1,ESP1,DCUP
+CIT,2016,Round of 16,2017-01-18,SS Lazio,Genoa CFC,domestic_cup,4,2,H,ITA1,ITA1,DCUP
+FAC,2016,Third Round Replay,2017-01-18,Southampton FC,Norwich City,domestic_cup,1,0,H,ENG1,ENG2,DCUP
+CIT,2016,Round of 16,2017-01-19,AS Roma,UC Sampdoria,domestic_cup,4,0,H,ITA1,ITA1,DCUP
+CDR,2016,Quarter-Finals 1st leg,2017-01-19,Atlético de Madrid,SD Eibar,domestic_cup,3,0,H,ESP1,ESP1,DCUP
+CDR,2016,Quarter-Finals 1st leg,2017-01-19,Real Sociedad,FC Barcelona,domestic_cup,0,1,A,ESP1,ESP1,DCUP
+SFA,2016,Fourth Round,2017-01-21,Ross County FC,Dundee United FC,domestic_cup,6,2,H,SCO1,SCO2,DCUP
+SFA,2016,Fourth Round,2017-01-21,Rangers FC,Motherwell FC,domestic_cup,2,1,H,SCO1,SCO1,DCUP
+SFA,2016,Fourth Round,2017-01-21,Kilmarnock FC,Hamilton Academical FC,domestic_cup,0,1,A,SCO1,SCO1,DCUP
+SFA,2016,Fourth Round,2017-01-21,Dundee FC,St. Mirren FC,domestic_cup,0,2,A,SCO2,SCO1,DCUP
+CIT,2016,Quarter-Finals,2017-01-24,SSC Napoli,ACF Fiorentina,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+CDR,2016,Quarter-Finals 2nd leg,2017-01-25,Celta de Vigo,Real Madrid,domestic_cup,2,2,D,ESP1,ESP1,DCUP
+CDR,2016,Quarter-Finals 2nd leg,2017-01-25,SD Eibar,Atlético de Madrid,domestic_cup,2,2,D,ESP1,ESP1,DCUP
+CIT,2016,Quarter-Finals,2017-01-25,Juventus FC,AC Milan,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CDR,2016,Quarter-Finals 2nd leg,2017-01-26,FC Barcelona,Real Sociedad,domestic_cup,5,2,H,ESP1,ESP1,DCUP
+FAC,2016,Fourth Round,2017-01-28,Liverpool FC,Wolverhampton Wanderers,domestic_cup,1,2,A,ENG1,ENG1,DCUP
+FAC,2016,Fourth Round,2017-01-28,Chelsea FC,Brentford FC,domestic_cup,4,0,H,ENG1,ENG2,DCUP
+FAC,2016,Fourth Round,2017-01-28,Southampton FC,Arsenal FC,domestic_cup,0,5,A,ENG1,ENG1,DCUP
+FAC,2016,Fourth Round,2017-01-28,Crystal Palace,Manchester City,domestic_cup,0,3,A,ENG1,ENG1,DCUP
+CIT,2016,Quarter-Finals,2017-01-31,Inter Milan,SS Lazio,domestic_cup,1,2,A,ITA1,ITA1,DCUP
+CDR,2016,Semi-Finals 1st Leg,2017-02-01,Atlético de Madrid,FC Barcelona,domestic_cup,1,2,A,ESP1,ESP1,DCUP
+DFB,2016,Round of 16,2017-02-07,SpVgg Greuther Fürth,Borussia Mönchengladbach,domestic_cup,0,2,A,DEU2,DEU1,DCUP
+CDR,2016,Semi-Finals 2nd Leg,2017-02-07,FC Barcelona,Atlético de Madrid,domestic_cup,1,1,D,ESP1,ESP1,DCUP
+DFB,2016,Round of 16,2017-02-07,Bayern Munich,VfL Wolfsburg,domestic_cup,1,0,H,DEU1,DEU1,DCUP
+DFB,2016,Round of 16,2017-02-08,Borussia Dortmund,Hertha BSC,domestic_cup,4,3,H,DEU1,DEU1,DCUP
+DFB,2016,Round of 16,2017-02-08,Hannover 96,Eintracht Frankfurt,domestic_cup,1,2,A,DEU2,DEU1,DCUP
+SFA,2016,Round of 16,2017-02-11,Ross County FC,Aberdeen FC,domestic_cup,0,1,A,SCO1,SCO1,DCUP
+SFA,2016,Round of 16,2017-02-11,Celtic FC,Inverness Caledonian Thistle FC,domestic_cup,6,0,H,SCO1,SCO2,DCUP
+SFA,2016,Round of 16,2017-02-12,Heart of Midlothian FC,Hibernian FC,domestic_cup,0,0,D,SCO1,SCO1,DCUP
+FAC,2016,Fifth Round,2017-02-18,Huddersfield Town,Manchester City,domestic_cup,0,0,D,ENG2,ENG1,DCUP
+FAC,2016,Fifth Round,2017-02-18,Wolverhampton Wanderers,Chelsea FC,domestic_cup,0,2,A,ENG1,ENG1,DCUP
+FAC,2016,Fifth Round,2017-02-19,Fulham FC,Tottenham Hotspur,domestic_cup,0,3,A,ENG1,ENG1,DCUP
+SFA,2016,Round of 16 Replay,2017-02-22,Hibernian FC,Heart of Midlothian FC,domestic_cup,3,1,H,SCO1,SCO1,DCUP
+DFB,2016,Quarter-Finals,2017-02-28,Eintracht Frankfurt,Arminia Bielefeld,domestic_cup,1,0,H,DEU1,DEU1,DCUP
+CIT,2016,Semi-Finals 1st Leg,2017-02-28,Juventus FC,SSC Napoli,domestic_cup,3,1,H,ITA1,ITA1,DCUP
+DFB,2016,Quarter-Finals,2017-03-01,Hamburger SV,Borussia Mönchengladbach,domestic_cup,1,2,A,DEU2,DEU1,DCUP
+DFB,2016,Quarter-Finals,2017-03-01,Bayern Munich,FC Schalke 04,domestic_cup,3,0,H,DEU1,DEU1,DCUP
+CIT,2016,Semi-Finals 1st Leg,2017-03-01,SS Lazio,AS Roma,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+FAC,2016,5th round deciders,2017-03-01,Manchester City,Huddersfield Town,domestic_cup,5,1,H,ENG1,ENG2,DCUP
+SFA,2016,Quarter-Finals,2017-03-04,Rangers FC,Hamilton Academical FC,domestic_cup,6,0,H,SCO1,SCO1,DCUP
+SFA,2016,Quarter-Finals,2017-03-05,Celtic FC,St. Mirren FC,domestic_cup,4,1,H,SCO1,SCO1,DCUP
+FAC,2016,Sixth Round,2017-03-11,Middlesbrough FC,Manchester City,domestic_cup,0,2,A,ENG2,ENG1,DCUP
+FAC,2016,Sixth Round,2017-03-13,Chelsea FC,Manchester United,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+CIT,2016,Semi-Finals 2nd Leg,2017-04-04,AS Roma,SS Lazio,domestic_cup,3,2,H,ITA1,ITA1,DCUP
+CIT,2016,Semi-Finals 2nd Leg,2017-04-05,SSC Napoli,Juventus FC,domestic_cup,3,2,H,ITA1,ITA1,DCUP
+SFA,2016,Semi-Finals,2017-04-22,Hibernian FC,Aberdeen FC,domestic_cup,2,3,A,SCO1,SCO1,DCUP
+FAC,2016,Semi-Finals,2017-04-22,Chelsea FC,Tottenham Hotspur,domestic_cup,4,2,H,ENG1,ENG1,DCUP
+FAC,2016,Semi-Finals,2017-04-23,Arsenal FC,Manchester City,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+SFA,2016,Semi-Finals,2017-04-23,Celtic FC,Rangers FC,domestic_cup,2,0,H,SCO1,SCO1,DCUP
+DFB,2016,Semi-Finals,2017-04-25,Borussia Mönchengladbach,Eintracht Frankfurt,domestic_cup,7,8,A,DEU1,DEU1,DCUP
+DFB,2016,Semi-Finals,2017-04-26,Bayern Munich,Borussia Dortmund,domestic_cup,2,3,A,DEU1,DEU1,DCUP
+CIT,2016,Final,2017-05-17,Juventus FC,SS Lazio,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+DFB,2016,Final,2017-05-27,Eintracht Frankfurt,Borussia Dortmund,domestic_cup,1,2,A,DEU1,DEU1,DCUP
+SFA,2016,Final,2017-05-27,Celtic FC,Aberdeen FC,domestic_cup,2,1,H,SCO1,SCO1,DCUP
+FAC,2016,Final,2017-05-27,Arsenal FC,Chelsea FC,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+CIT,2017,Third Round,2017-08-12,US Sassuolo,Spezia Calcio,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+CIT,2017,Third Round,2017-08-12,Udinese Calcio,Frosinone Calcio,domestic_cup,3,2,H,ITA1,ITA2,DCUP
+CIT,2017,Third Round,2017-08-12,Brescia Calcio,Delfino Pescara 1936,domestic_cup,1,3,A,ITA2,ITA2,DCUP
+DFB,2017,First Round,2017-08-12,Arminia Bielefeld,Fortuna Düsseldorf,domestic_cup,1,3,A,DEU1,DEU2,DCUP
+CDR,2017,Second Round Replay,2017-09-05,Cádiz CF,UD Almería,domestic_cup,1,0,H,ESP1,ESP2,DCUP
+CDR,2017,Second Round Replay,2017-09-06,SD Huesca,Real Valladolid CF,domestic_cup,0,2,A,ESP1,ESP1,DCUP
+CDR,2017,Second Round Replay,2017-09-06,Real Zaragoza,Granada CF,domestic_cup,3,0,H,ESP2,ESP1,DCUP
+CDR,2017,Third Round Replay,2017-09-20,Cádiz CF,CA Osasuna,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+DFB,2017,Second Round,2017-10-24,SC Paderborn 07,VfL Bochum,domestic_cup,2,0,H,DEU2,DEU2,DCUP
+DFB,2017,Second Round,2017-10-24,Bayer 04 Leverkusen,1.FC Union Berlin,domestic_cup,4,1,H,DEU1,DEU1,DCUP
+CDR,2017,intermediate stage 1st leg,2017-10-24,Real Zaragoza,Valencia CF,domestic_cup,0,2,A,ESP2,ESP1,DCUP
+DFB,2017,Second Round,2017-10-24,Fortuna Düsseldorf,Borussia Mönchengladbach,domestic_cup,0,1,A,DEU2,DEU1,DCUP
+CDR,2017,intermediate stage 1st leg,2017-10-24,Cádiz CF,Real Betis Balompié,domestic_cup,1,2,A,ESP1,ESP1,DCUP
+CDR,2017,intermediate stage 1st leg,2017-10-25,Real Valladolid CF,CD Leganés,domestic_cup,1,2,A,ESP1,ESP2,DCUP
+CDR,2017,intermediate stage 1st leg,2017-10-25,Elche CF,Atlético de Madrid,domestic_cup,1,1,D,ESP1,ESP1,DCUP
+DFB,2017,Second Round,2017-10-25,RB Leipzig,Bayern Munich,domestic_cup,5,6,A,DEU1,DEU1,DCUP
+DFB,2017,Second Round,2017-10-25,SV Werder Bremen,TSG 1899 Hoffenheim,domestic_cup,1,0,H,DEU1,DEU1,DCUP
+DFB,2017,Second Round,2017-10-25,VfL Wolfsburg,Hannover 96,domestic_cup,1,0,H,DEU1,DEU2,DCUP
+CDR,2017,intermediate stage 1st leg,2017-10-25,SD Eibar,Celta de Vigo,domestic_cup,1,2,A,ESP1,ESP1,DCUP
+CDR,2017,intermediate stage 1st leg,2017-10-26,Girona FC,Levante UD,domestic_cup,0,2,A,ESP2,ESP1,DCUP
+CDR,2017,intermediate stage 2nd leg,2017-11-28,CD Leganés,Real Valladolid CF,domestic_cup,1,0,H,ESP2,ESP1,DCUP
+CDR,2017,intermediate stage 2nd leg,2017-11-28,Celta de Vigo,SD Eibar,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+CDR,2017,intermediate stage 2nd leg,2017-11-28,Levante UD,Girona FC,domestic_cup,1,1,D,ESP1,ESP2,DCUP
+CIT,2017,Fourth Round,2017-11-28,UC Sampdoria,Delfino Pescara 1936,domestic_cup,4,1,H,ITA1,ITA2,DCUP
+CIT,2017,Fourth Round,2017-11-29,Chievo Verona,Hellas Verona,domestic_cup,5,6,A,ITA2,ITA1,DCUP
+CDR,2017,intermediate stage 2nd leg,2017-11-29,Atlético de Madrid,Elche CF,domestic_cup,3,0,H,ESP1,ESP1,DCUP
+CDR,2017,intermediate stage 2nd leg,2017-11-30,Valencia CF,Real Zaragoza,domestic_cup,4,1,H,ESP1,ESP2,DCUP
+CDR,2017,intermediate stage 2nd leg,2017-11-30,Real Betis Balompié,Cádiz CF,domestic_cup,3,5,A,ESP1,ESP1,DCUP
+CIT,2017,Fourth Round,2017-11-30,Genoa CFC,FC Crotone,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+CIT,2017,Round of 16,2017-12-13,AC Milan,Hellas Verona,domestic_cup,3,0,H,ITA1,ITA1,DCUP
+CIT,2017,Round of 16,2017-12-13,ACF Fiorentina,UC Sampdoria,domestic_cup,3,2,H,ITA1,ITA1,DCUP
+DFB,2017,Round of 16,2017-12-19,1.FSV Mainz 05,VfB Stuttgart,domestic_cup,3,1,H,DEU1,DEU1,DCUP
+DFB,2017,Round of 16,2017-12-19,1.FC Nuremberg,VfL Wolfsburg,domestic_cup,0,2,A,DEU2,DEU1,DCUP
+CIT,2017,Round of 16,2017-12-19,SSC Napoli,Udinese Calcio,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+DFB,2017,Round of 16,2017-12-20,SV Werder Bremen,SC Freiburg,domestic_cup,3,2,H,DEU1,DEU1,DCUP
+CIT,2017,Round of 16,2017-12-20,AS Roma,Torino FC,domestic_cup,1,2,A,ITA1,ITA1,DCUP
+DFB,2017,Round of 16,2017-12-20,1.FC Heidenheim 1846,Eintracht Frankfurt,domestic_cup,1,2,A,DEU2,DEU1,DCUP
+DFB,2017,Round of 16,2017-12-20,Borussia Mönchengladbach,Bayer 04 Leverkusen,domestic_cup,0,1,A,DEU1,DEU1,DCUP
+DFB,2017,Round of 16,2017-12-20,Bayern Munich,Borussia Dortmund,domestic_cup,2,1,H,DEU1,DEU1,DCUP
+CIT,2017,Round of 16,2017-12-20,Juventus FC,Genoa CFC,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+CIT,2017,Round of 16,2017-12-20,Atalanta BC,US Sassuolo,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CIT,2017,Quarter-Finals,2017-12-26,SS Lazio,ACF Fiorentina,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+CIT,2017,Quarter-Finals,2017-12-27,AC Milan,Inter Milan,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+CIT,2017,Quarter-Finals,2018-01-02,SSC Napoli,Atalanta BC,domestic_cup,1,2,A,ITA1,ITA1,DCUP
+CDR,2017,last 16 1st leg,2018-01-03,Cádiz CF,Sevilla FC,domestic_cup,0,2,A,ESP1,ESP1,DCUP
+CDR,2017,last 16 1st leg,2018-01-03,UD Las Palmas,Valencia CF,domestic_cup,1,1,D,ESP2,ESP1,DCUP
+CIT,2017,Quarter-Finals,2018-01-03,Juventus FC,Torino FC,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+CDR,2017,last 16 1st leg,2018-01-04,Celta de Vigo,FC Barcelona,domestic_cup,1,1,D,ESP1,ESP1,DCUP
+CDR,2017,last 16 1st leg,2018-01-04,CD Leganés,Villarreal CF,domestic_cup,1,0,H,ESP2,ESP1,DCUP
+CDR,2017,last 16 1st leg,2018-01-04,RCD Espanyol Barcelona,Levante UD,domestic_cup,1,2,A,ESP2,ESP1,DCUP
+FAC,2017,Third Round,2018-01-05,Liverpool FC,Everton FC,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+FAC,2017,Third Round,2018-01-06,Wolverhampton Wanderers,Swansea City,domestic_cup,0,0,D,ENG1,ENG2,DCUP
+FAC,2017,Third Round,2018-01-06,Newcastle United,Luton Town,domestic_cup,3,1,H,ENG1,ENG2,DCUP
+FAC,2017,Third Round,2018-01-06,Norwich City,Chelsea FC,domestic_cup,0,0,D,ENG2,ENG1,DCUP
+FAC,2017,Third Round,2018-01-06,Manchester City,Burnley FC,domestic_cup,4,1,H,ENG1,ENG1,DCUP
+FAC,2017,Third Round,2018-01-06,Fulham FC,Southampton FC,domestic_cup,0,1,A,ENG1,ENG1,DCUP
+FAC,2017,Third Round,2018-01-07,Nottingham Forest,Arsenal FC,domestic_cup,4,2,H,ENG2,ENG1,DCUP
+FAC,2017,Third Round,2018-01-08,Brighton & Hove Albion,Crystal Palace,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+CDR,2017,last 16 2nd leg,2018-01-09,Valencia CF,UD Las Palmas,domestic_cup,4,0,H,ESP1,ESP2,DCUP
+CDR,2017,last 16 2nd leg,2018-01-10,Villarreal CF,CD Leganés,domestic_cup,2,1,H,ESP1,ESP2,DCUP
+CDR,2017,last 16 2nd leg,2018-01-11,Sevilla FC,Cádiz CF,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+CDR,2017,last 16 2nd leg,2018-01-11,FC Barcelona,Celta de Vigo,domestic_cup,5,0,H,ESP1,ESP1,DCUP
+CDR,2017,last 16 2nd leg,2018-01-11,Levante UD,RCD Espanyol Barcelona,domestic_cup,0,2,A,ESP1,ESP2,DCUP
+CDR,2017,Quarter-Finals 1st leg,2018-01-17,Atlético de Madrid,Sevilla FC,domestic_cup,1,2,A,ESP1,ESP1,DCUP
+FAC,2017,Third Round Replay,2018-01-17,Swansea City,Wolverhampton Wanderers,domestic_cup,2,1,H,ENG2,ENG1,DCUP
+FAC,2017,Third Round Replay,2018-01-17,Chelsea FC,Norwich City,domestic_cup,6,4,H,ENG1,ENG2,DCUP
+CDR,2017,Quarter-Finals 1st leg,2018-01-17,RCD Espanyol Barcelona,FC Barcelona,domestic_cup,1,0,H,ESP2,ESP1,DCUP
+CDR,2017,Quarter-Finals 1st leg,2018-01-18,CD Leganés,Real Madrid,domestic_cup,0,1,A,ESP2,ESP1,DCUP
+SFA,2017,Fourth Round,2018-01-20,Dundee FC,Inverness Caledonian Thistle FC,domestic_cup,2,2,D,SCO2,SCO2,DCUP
+SFA,2017,Fourth Round,2018-01-20,Motherwell FC,Hamilton Academical FC,domestic_cup,2,0,H,SCO1,SCO1,DCUP
+SFA,2017,Fourth Round,2018-01-20,Kilmarnock FC,Ross County FC,domestic_cup,1,0,H,SCO1,SCO1,DCUP
+SFA,2017,Fourth Round,2018-01-20,Aberdeen FC,St. Mirren FC,domestic_cup,4,1,H,SCO1,SCO1,DCUP
+SFA,2017,Fourth Round,2018-01-21,Heart of Midlothian FC,Hibernian FC,domestic_cup,1,0,H,SCO1,SCO1,DCUP
+CDR,2017,Quarter-Finals 2nd leg,2018-01-23,Sevilla FC,Atlético de Madrid,domestic_cup,3,1,H,ESP1,ESP1,DCUP
+CDR,2017,Quarter-Finals 2nd leg,2018-01-24,Real Madrid,CD Leganés,domestic_cup,1,2,A,ESP1,ESP2,DCUP
+CDR,2017,Quarter-Finals 2nd leg,2018-01-25,FC Barcelona,RCD Espanyol Barcelona,domestic_cup,2,0,H,ESP1,ESP2,DCUP
+FAC,2017,Fourth Round,2018-01-27,Middlesbrough FC,Brighton & Hove Albion,domestic_cup,0,1,A,ENG2,ENG1,DCUP
+FAC,2017,Fourth Round,2018-01-27,Liverpool FC,West Bromwich Albion,domestic_cup,2,3,A,ENG1,ENG1,DCUP
+FAC,2017,Fourth Round,2018-01-27,Southampton FC,Watford FC,domestic_cup,1,0,H,ENG1,ENG2,DCUP
+FAC,2017,Fourth Round,2018-01-28,Chelsea FC,Newcastle United,domestic_cup,3,0,H,ENG1,ENG1,DCUP
+FAC,2017,Fourth Round,2018-01-28,Cardiff City,Manchester City,domestic_cup,0,2,A,ENG2,ENG1,DCUP
+SFA,2017,4th round deciders,2018-01-30,Inverness Caledonian Thistle FC,Dundee FC,domestic_cup,0,1,A,SCO2,SCO2,DCUP
+CIT,2017,Semi-Finals 1st Leg,2018-01-30,Atalanta BC,Juventus FC,domestic_cup,0,1,A,ITA1,ITA1,DCUP
+CDR,2017,Semi-Finals 1st Leg,2018-01-31,CD Leganés,Sevilla FC,domestic_cup,1,1,D,ESP2,ESP1,DCUP
+CIT,2017,Semi-Finals 1st Leg,2018-01-31,AC Milan,SS Lazio,domestic_cup,0,0,D,ITA1,ITA1,DCUP
+CDR,2017,Semi-Finals 1st Leg,2018-02-01,FC Barcelona,Valencia CF,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+DFB,2017,Quarter-Finals,2018-02-06,SC Paderborn 07,Bayern Munich,domestic_cup,0,6,A,DEU2,DEU1,DCUP
+DFB,2017,Quarter-Finals,2018-02-06,Bayer 04 Leverkusen,SV Werder Bremen,domestic_cup,4,2,H,DEU1,DEU1,DCUP
+DFB,2017,Quarter-Finals,2018-02-07,FC Schalke 04,VfL Wolfsburg,domestic_cup,1,0,H,DEU1,DEU1,DCUP
+CDR,2017,Semi-Finals 2nd Leg,2018-02-07,Sevilla FC,CD Leganés,domestic_cup,2,0,H,ESP1,ESP2,DCUP
+DFB,2017,Quarter-Finals,2018-02-07,Eintracht Frankfurt,1.FSV Mainz 05,domestic_cup,3,0,H,DEU1,DEU1,DCUP
+CDR,2017,Semi-Finals 2nd Leg,2018-02-08,Valencia CF,FC Barcelona,domestic_cup,0,2,A,ESP1,ESP1,DCUP
+SFA,2017,Round of 16,2018-02-10,Dundee FC,Motherwell FC,domestic_cup,0,2,A,SCO2,SCO1,DCUP
+SFA,2017,Round of 16,2018-02-10,Heart of Midlothian FC,St. Johnstone FC,domestic_cup,3,0,H,SCO1,SCO1,DCUP
+SFA,2017,Round of 16,2018-02-11,Aberdeen FC,Dundee United FC,domestic_cup,4,2,H,SCO1,SCO2,DCUP
+FAC,2017,Fifth Round,2018-02-16,Leicester City,Sheffield United,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+FAC,2017,Fifth Round,2018-02-17,Huddersfield Town,Manchester United,domestic_cup,0,2,A,ENG2,ENG1,DCUP
+FAC,2017,Fifth Round,2018-02-17,West Bromwich Albion,Southampton FC,domestic_cup,1,2,A,ENG1,ENG1,DCUP
+CIT,2017,Semi-Finals 2nd Leg,2018-02-28,SS Lazio,AC Milan,domestic_cup,4,5,A,ITA1,ITA1,DCUP
+CIT,2017,Semi-Finals 2nd Leg,2018-02-28,Juventus FC,Atalanta BC,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+SFA,2017,Quarter-Finals,2018-03-03,Aberdeen FC,Kilmarnock FC,domestic_cup,1,1,D,SCO1,SCO1,DCUP
+SFA,2017,Quarter-Finals,2018-03-04,Motherwell FC,Heart of Midlothian FC,domestic_cup,2,1,H,SCO1,SCO1,DCUP
+SFA,2017,quarter-finals deciders,2018-03-13,Kilmarnock FC,Aberdeen FC,domestic_cup,3,4,A,SCO1,SCO1,DCUP
+FAC,2017,Sixth Round,2018-03-17,Manchester United,Brighton & Hove Albion,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+FAC,2017,Sixth Round,2018-03-17,Swansea City,Tottenham Hotspur,domestic_cup,0,3,A,ENG2,ENG1,DCUP
+FAC,2017,Sixth Round,2018-03-18,Leicester City,Chelsea FC,domestic_cup,1,2,A,ENG1,ENG1,DCUP
+SFA,2017,Semi-Finals,2018-04-14,Motherwell FC,Aberdeen FC,domestic_cup,3,0,H,SCO1,SCO1,DCUP
+SFA,2017,Semi-Finals,2018-04-15,Celtic FC,Rangers FC,domestic_cup,4,0,H,SCO1,SCO1,DCUP
+DFB,2017,Semi-Finals,2018-04-17,Bayer 04 Leverkusen,Bayern Munich,domestic_cup,2,6,A,DEU1,DEU1,DCUP
+DFB,2017,Semi-Finals,2018-04-18,FC Schalke 04,Eintracht Frankfurt,domestic_cup,0,1,A,DEU1,DEU1,DCUP
+CDR,2017,Final,2018-04-21,Sevilla FC,FC Barcelona,domestic_cup,0,5,A,ESP1,ESP1,DCUP
+FAC,2017,Semi-Finals,2018-04-21,Manchester United,Tottenham Hotspur,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+FAC,2017,Semi-Finals,2018-04-22,Chelsea FC,Southampton FC,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+CIT,2017,Final,2018-05-09,Juventus FC,AC Milan,domestic_cup,4,0,H,ITA1,ITA1,DCUP
+DFB,2017,Final,2018-05-19,Bayern Munich,Eintracht Frankfurt,domestic_cup,1,3,A,DEU1,DEU1,DCUP
+FAC,2017,Final,2018-05-19,Chelsea FC,Manchester United,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+SFA,2017,Final,2018-05-19,Celtic FC,Motherwell FC,domestic_cup,2,0,H,SCO1,SCO1,DCUP
+CIT,2018,Third Round,2018-08-11,Genoa CFC,US Lecce,domestic_cup,4,0,H,ITA1,ITA2,DCUP
+CIT,2018,Third Round,2018-08-11,Udinese Calcio,Benevento Calcio,domestic_cup,1,2,A,ITA1,ITA1,DCUP
+CIT,2018,Third Round,2018-08-12,Spezia Calcio,SPAL,domestic_cup,0,1,A,ITA1,ITA2,DCUP
+CIT,2018,Third Round,2018-08-12,Chievo Verona,Delfino Pescara 1936,domestic_cup,1,0,H,ITA2,ITA2,DCUP
+DFB,2018,First Round,2018-08-20,Eintracht Braunschweig,Hertha BSC,domestic_cup,1,2,A,DEU2,DEU1,DCUP
+DFB,2018,First Round,2018-08-20,SpVgg Greuther Fürth,Borussia Dortmund,domestic_cup,1,2,A,DEU2,DEU1,DCUP
+CDR,2018,Second Round Replay,2018-09-13,Elche CF,Granada CF,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+DFB,2018,Second Round,2018-10-30,FC Augsburg,1.FSV Mainz 05,domestic_cup,3,2,H,DEU1,DEU1,DCUP
+DFB,2018,Second Round,2018-10-30,SV Darmstadt 98,Hertha BSC,domestic_cup,0,2,A,DEU2,DEU1,DCUP
+DFB,2018,Second Round,2018-10-30,Hannover 96,VfL Wolfsburg,domestic_cup,0,2,A,DEU2,DEU1,DCUP
+DFB,2018,Second Round,2018-10-31,Borussia Mönchengladbach,Bayer 04 Leverkusen,domestic_cup,0,5,A,DEU1,DEU1,DCUP
+DFB,2018,Second Round,2018-10-31,Borussia Dortmund,1.FC Union Berlin,domestic_cup,3,2,H,DEU1,DEU1,DCUP
+DFB,2018,Second Round,2018-10-31,RB Leipzig,TSG 1899 Hoffenheim,domestic_cup,2,0,H,DEU1,DEU1,DCUP
+CIT,2018,Fourth Round,2018-12-04,UC Sampdoria,SPAL,domestic_cup,2,1,H,ITA1,ITA2,DCUP
+CIT,2018,Fourth Round,2018-12-04,Bologna FC 1909,FC Crotone,domestic_cup,3,0,H,ITA1,ITA1,DCUP
+CIT,2018,Fourth Round,2018-12-05,Chievo Verona,Cagliari Calcio,domestic_cup,1,2,A,ITA2,ITA1,DCUP
+FAC,2018,Third Round,2019-01-05,AFC Bournemouth,Brighton & Hove Albion,domestic_cup,1,3,A,ENG2,ENG1,DCUP
+FAC,2018,Third Round,2019-01-05,Aston Villa,Swansea City,domestic_cup,0,3,A,ENG1,ENG2,DCUP
+FAC,2018,Third Round,2019-01-05,Manchester United,Reading FC,domestic_cup,2,0,H,ENG1,ENG2,DCUP
+FAC,2018,Third Round,2019-01-05,Chelsea FC,Nottingham Forest,domestic_cup,2,0,H,ENG1,ENG2,DCUP
+FAC,2018,Third Round,2019-01-06,Queens Park Rangers,Leeds United,domestic_cup,2,1,H,SCO1,ENG1,DCUP
+FAC,2018,Third Round,2019-01-07,Wolverhampton Wanderers,Liverpool FC,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+CIT,2018,Round of 16,2019-01-12,Bologna FC 1909,Juventus FC,domestic_cup,0,2,A,ITA1,ITA1,DCUP
+CIT,2018,Round of 16,2019-01-12,UC Sampdoria,AC Milan,domestic_cup,0,2,A,ITA1,ITA1,DCUP
+CIT,2018,Round of 16,2019-01-13,Inter Milan,Benevento Calcio,domestic_cup,6,2,H,ITA1,ITA1,DCUP
+CIT,2018,Round of 16,2019-01-13,SSC Napoli,US Sassuolo,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+CIT,2018,Round of 16,2019-01-13,Torino FC,ACF Fiorentina,domestic_cup,0,2,A,ITA1,ITA1,DCUP
+CIT,2018,Round of 16,2019-01-14,Cagliari Calcio,Atalanta BC,domestic_cup,0,2,A,ITA1,ITA1,DCUP
+SFA,2018,Fourth Round,2019-01-19,Motherwell FC,Ross County FC,domestic_cup,1,2,A,SCO1,SCO1,DCUP
+SFA,2018,Fourth Round,2019-01-19,St. Johnstone FC,Hamilton Academical FC,domestic_cup,2,0,H,SCO1,SCO1,DCUP
+SFA,2018,Fourth Round,2019-01-20,Heart of Midlothian FC,Livingston FC,domestic_cup,1,0,H,SCO1,SCO1,DCUP
+FAC,2018,Fourth Round,2019-01-25,Arsenal FC,Manchester United,domestic_cup,1,3,A,ENG1,ENG1,DCUP
+FAC,2018,Fourth Round,2019-01-26,Newcastle United,Watford FC,domestic_cup,0,2,A,ENG1,ENG2,DCUP
+FAC,2018,Fourth Round,2019-01-26,Brighton & Hove Albion,West Bromwich Albion,domestic_cup,0,0,D,ENG1,ENG1,DCUP
+FAC,2018,Fourth Round,2019-01-26,Manchester City,Burnley FC,domestic_cup,5,0,H,ENG1,ENG1,DCUP
+FAC,2018,Fourth Round,2019-01-27,Crystal Palace,Tottenham Hotspur,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+CIT,2018,Quarter-Finals,2019-01-29,AC Milan,SSC Napoli,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+CIT,2018,Quarter-Finals,2019-01-30,Atalanta BC,Juventus FC,domestic_cup,3,0,H,ITA1,ITA1,DCUP
+CIT,2018,Quarter-Finals,2019-01-30,ACF Fiorentina,AS Roma,domestic_cup,7,1,H,ITA1,ITA1,DCUP
+CIT,2018,Quarter-Finals,2019-01-31,Inter Milan,SS Lazio,domestic_cup,4,5,A,ITA1,ITA1,DCUP
+DFB,2018,Round of 16,2019-02-05,Hamburger SV,1.FC Nuremberg,domestic_cup,1,0,H,DEU2,DEU2,DCUP
+DFB,2018,Round of 16,2019-02-05,Borussia Dortmund,SV Werder Bremen,domestic_cup,5,7,A,DEU1,DEU1,DCUP
+DFB,2018,Round of 16,2019-02-05,1.FC Heidenheim 1846,Bayer 04 Leverkusen,domestic_cup,2,1,H,DEU2,DEU1,DCUP
+DFB,2018,Round of 16,2019-02-06,RB Leipzig,VfL Wolfsburg,domestic_cup,1,0,H,DEU1,DEU1,DCUP
+DFB,2018,Round of 16,2019-02-06,Hertha BSC,Bayern Munich,domestic_cup,2,3,A,DEU1,DEU1,DCUP
+FAC,2018,4th round deciders,2019-02-06,West Bromwich Albion,Brighton & Hove Albion,domestic_cup,1,3,A,ENG1,ENG1,DCUP
+DFB,2018,Round of 16,2019-02-06,FC Schalke 04,Fortuna Düsseldorf,domestic_cup,4,1,H,DEU1,DEU2,DCUP
+SFA,2018,Round of 16,2019-02-09,St. Mirren FC,Dundee United FC,domestic_cup,1,2,A,SCO1,SCO2,DCUP
+SFA,2018,Round of 16,2019-02-09,Kilmarnock FC,Rangers FC,domestic_cup,0,0,D,SCO1,SCO1,DCUP
+SFA,2018,Round of 16,2019-02-10,Celtic FC,St. Johnstone FC,domestic_cup,5,0,H,SCO1,SCO1,DCUP
+SFA,2018,Round of 16,2019-02-11,Ross County FC,Inverness Caledonian Thistle FC,domestic_cup,2,2,D,SCO1,SCO2,DCUP
+FAC,2018,Fifth Round,2019-02-15,Queens Park Rangers,Watford FC,domestic_cup,0,1,A,SCO1,ENG2,DCUP
+FAC,2018,Fifth Round,2019-02-17,Swansea City,Brentford FC,domestic_cup,4,1,H,ENG2,ENG2,DCUP
+FAC,2018,Fifth Round,2019-02-18,Chelsea FC,Manchester United,domestic_cup,0,2,A,ENG1,ENG1,DCUP
+SFA,2018,Round of 16 Replay,2019-02-19,Inverness Caledonian Thistle FC,Ross County FC,domestic_cup,7,6,H,SCO2,SCO1,DCUP
+SFA,2018,Round of 16 Replay,2019-02-20,Rangers FC,Kilmarnock FC,domestic_cup,5,0,H,SCO1,SCO1,DCUP
+CIT,2018,Semi-Finals 1st Leg,2019-02-26,SS Lazio,AC Milan,domestic_cup,0,0,D,ITA1,ITA1,DCUP
+CIT,2018,Semi-Finals 1st Leg,2019-02-27,ACF Fiorentina,Atalanta BC,domestic_cup,3,3,D,ITA1,ITA1,DCUP
+SFA,2018,Quarter-Finals,2019-03-02,Hibernian FC,Celtic FC,domestic_cup,0,2,A,SCO1,SCO1,DCUP
+SFA,2018,Quarter-Finals,2019-03-03,Aberdeen FC,Rangers FC,domestic_cup,1,1,D,SCO1,SCO1,DCUP
+SFA,2018,Quarter-Finals,2019-03-03,Dundee United FC,Inverness Caledonian Thistle FC,domestic_cup,1,2,A,SCO2,SCO2,DCUP
+SFA,2018,quarter-finals deciders,2019-03-12,Rangers FC,Aberdeen FC,domestic_cup,0,2,A,SCO1,SCO1,DCUP
+FAC,2018,Sixth Round,2019-03-16,Watford FC,Crystal Palace,domestic_cup,2,1,H,ENG2,ENG1,DCUP
+FAC,2018,Sixth Round,2019-03-16,Swansea City,Manchester City,domestic_cup,2,3,A,ENG2,ENG1,DCUP
+FAC,2018,Sixth Round,2019-03-16,Wolverhampton Wanderers,Manchester United,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+DFB,2018,Quarter-Finals,2019-04-02,FC Augsburg,RB Leipzig,domestic_cup,1,2,A,DEU1,DEU1,DCUP
+DFB,2018,Quarter-Finals,2019-04-02,SC Paderborn 07,Hamburger SV,domestic_cup,0,2,A,DEU2,DEU2,DCUP
+DFB,2018,Quarter-Finals,2019-04-03,Bayern Munich,1.FC Heidenheim 1846,domestic_cup,5,4,H,DEU1,DEU2,DCUP
+DFB,2018,Quarter-Finals,2019-04-03,FC Schalke 04,SV Werder Bremen,domestic_cup,0,2,A,DEU1,DEU1,DCUP
+FAC,2018,Semi-Finals,2019-04-06,Manchester City,Brighton & Hove Albion,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+FAC,2018,Semi-Finals,2019-04-07,Watford FC,Wolverhampton Wanderers,domestic_cup,3,2,H,ENG2,ENG1,DCUP
+SFA,2018,Semi-Finals,2019-04-13,Heart of Midlothian FC,Inverness Caledonian Thistle FC,domestic_cup,3,0,H,SCO1,SCO2,DCUP
+SFA,2018,Semi-Finals,2019-04-14,Aberdeen FC,Celtic FC,domestic_cup,0,3,A,SCO1,SCO1,DCUP
+DFB,2018,Semi-Finals,2019-04-23,Hamburger SV,RB Leipzig,domestic_cup,1,3,A,DEU2,DEU1,DCUP
+DFB,2018,Semi-Finals,2019-04-24,SV Werder Bremen,Bayern Munich,domestic_cup,2,3,A,DEU1,DEU1,DCUP
+CIT,2018,Semi-Finals 2nd Leg,2019-04-24,AC Milan,SS Lazio,domestic_cup,0,1,A,ITA1,ITA1,DCUP
+CIT,2018,Semi-Finals 2nd Leg,2019-04-25,Atalanta BC,ACF Fiorentina,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CIT,2018,Final,2019-05-15,Atalanta BC,SS Lazio,domestic_cup,0,2,A,ITA1,ITA1,DCUP
+FAC,2018,Final,2019-05-18,Manchester City,Watford FC,domestic_cup,6,0,H,ENG1,ENG2,DCUP
+DFB,2018,Final,2019-05-25,RB Leipzig,Bayern Munich,domestic_cup,0,3,A,DEU1,DEU1,DCUP
+SFA,2018,Final,2019-05-25,Heart of Midlothian FC,Celtic FC,domestic_cup,1,2,A,SCO1,SCO1,DCUP
+CIT,2019,Second Round,2019-08-11,Benevento Calcio,AC Monza,domestic_cup,3,4,A,ITA1,ITA2,DCUP
+CIT,2019,Third Round,2019-08-16,Parma Calcio 1913,Venezia FC,domestic_cup,3,1,H,ITA1,ITA2,DCUP
+CIT,2019,Third Round,2019-08-17,US Sassuolo,Spezia Calcio,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+CIT,2019,Third Round,2019-08-17,FC Empoli,Delfino Pescara 1936,domestic_cup,2,1,H,ITA2,ITA2,DCUP
+CIT,2019,Third Round,2019-08-17,US Lecce,US Salernitana 1919,domestic_cup,4,0,H,ITA2,ITA2,DCUP
+CIT,2019,Third Round,2019-08-17,FC Crotone,UC Sampdoria,domestic_cup,1,3,A,ITA1,ITA1,DCUP
+CIT,2019,Third Round,2019-08-18,Hellas Verona,US Cremonese,domestic_cup,1,2,A,ITA1,ITA2,DCUP
+CIT,2019,Third Round,2019-08-18,ACF Fiorentina,AC Monza,domestic_cup,3,1,H,ITA1,ITA2,DCUP
+CIT,2019,Third Round,2019-08-18,Cagliari Calcio,Chievo Verona,domestic_cup,2,1,H,ITA1,ITA2,DCUP
+DFB,2019,Second Round,2019-10-29,SC Freiburg,1.FC Union Berlin,domestic_cup,1,3,A,DEU1,DEU1,DCUP
+DFB,2019,Second Round,2019-10-29,Arminia Bielefeld,FC Schalke 04,domestic_cup,2,3,A,DEU1,DEU1,DCUP
+DFB,2019,Second Round,2019-10-29,VfL Bochum,Bayern Munich,domestic_cup,1,2,A,DEU2,DEU1,DCUP
+DFB,2019,Second Round,2019-10-29,Bayer 04 Leverkusen,SC Paderborn 07,domestic_cup,1,0,H,DEU1,DEU2,DCUP
+DFB,2019,Second Round,2019-10-29,Hamburger SV,VfB Stuttgart,domestic_cup,1,2,A,DEU2,DEU1,DCUP
+DFB,2019,Second Round,2019-10-30,VfL Wolfsburg,RB Leipzig,domestic_cup,1,6,A,DEU1,DEU1,DCUP
+DFB,2019,Second Round,2019-10-30,Borussia Dortmund,Borussia Mönchengladbach,domestic_cup,2,1,H,DEU1,DEU1,DCUP
+DFB,2019,Second Round,2019-10-30,SV Werder Bremen,1.FC Heidenheim 1846,domestic_cup,4,1,H,DEU1,DEU2,DCUP
+CIT,2019,Fourth Round,2019-12-03,US Cremonese,FC Empoli,domestic_cup,1,0,H,ITA2,ITA2,DCUP
+CIT,2019,Fourth Round,2019-12-04,SPAL,US Lecce,domestic_cup,5,1,H,ITA2,ITA2,DCUP
+CIT,2019,Fourth Round,2019-12-04,Udinese Calcio,Bologna FC 1909,domestic_cup,4,0,H,ITA1,ITA1,DCUP
+CIT,2019,Fourth Round,2019-12-05,Parma Calcio 1913,Frosinone Calcio,domestic_cup,2,1,H,ITA1,ITA2,DCUP
+CIT,2019,Fourth Round,2019-12-05,Cagliari Calcio,UC Sampdoria,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+FAC,2019,Third Round,2020-01-04,Southampton FC,Huddersfield Town,domestic_cup,2,0,H,ENG1,ENG2,DCUP
+FAC,2019,Third Round,2020-01-04,Fulham FC,Aston Villa,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+FAC,2019,Third Round,2020-01-04,Brentford FC,Stoke City,domestic_cup,1,0,H,ENG2,ENG2,DCUP
+FAC,2019,Third Round,2020-01-04,AFC Bournemouth,Luton Town,domestic_cup,4,0,H,ENG2,ENG2,DCUP
+FAC,2019,Third Round,2020-01-04,Wolverhampton Wanderers,Manchester United,domestic_cup,0,0,D,ENG1,ENG1,DCUP
+FAC,2019,Third Round,2020-01-05,Chelsea FC,Nottingham Forest,domestic_cup,2,0,H,ENG1,ENG2,DCUP
+FAC,2019,Third Round,2020-01-05,Middlesbrough FC,Tottenham Hotspur,domestic_cup,1,1,D,ENG2,ENG1,DCUP
+FAC,2019,Third Round,2020-01-05,Liverpool FC,Everton FC,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+FAC,2019,Third Round,2020-01-05,Queens Park Rangers,Swansea City,domestic_cup,5,1,H,SCO1,ENG2,DCUP
+FAC,2019,Third Round,2020-01-06,Arsenal FC,Leeds United,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+CIT,2019,Round of 16,2020-01-09,Torino FC,Genoa CFC,domestic_cup,6,4,H,ITA1,ITA1,DCUP
+FAC,2019,Third Round Replay,2020-01-14,Tottenham Hotspur,Middlesbrough FC,domestic_cup,2,1,H,ENG1,ENG2,DCUP
+CIT,2019,Round of 16,2020-01-14,SS Lazio,US Cremonese,domestic_cup,4,0,H,ITA1,ITA2,DCUP
+CIT,2019,Round of 16,2020-01-14,Inter Milan,Cagliari Calcio,domestic_cup,4,1,H,ITA1,ITA1,DCUP
+CIT,2019,Round of 16,2020-01-15,Juventus FC,Udinese Calcio,domestic_cup,4,0,H,ITA1,ITA1,DCUP
+CIT,2019,Round of 16,2020-01-15,ACF Fiorentina,Atalanta BC,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CIT,2019,Round of 16,2020-01-15,AC Milan,SPAL,domestic_cup,3,0,H,ITA1,ITA2,DCUP
+FAC,2019,Third Round Replay,2020-01-15,Manchester United,Wolverhampton Wanderers,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+CIT,2019,Round of 16,2020-01-16,Parma Calcio 1913,AS Roma,domestic_cup,0,2,A,ITA1,ITA1,DCUP
+SFA,2019,Fourth Round,2020-01-18,Dundee FC,Motherwell FC,domestic_cup,0,3,A,SCO2,SCO1,DCUP
+SFA,2019,Fourth Round,2020-01-19,Dundee United FC,Hibernian FC,domestic_cup,2,2,D,SCO2,SCO1,DCUP
+CIT,2019,Quarter-Finals,2020-01-21,SSC Napoli,SS Lazio,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+CDR,2019,Third Round,2020-01-21,Sevilla FC,Levante UD,domestic_cup,3,1,H,ESP1,ESP1,DCUP
+CDR,2019,Third Round,2020-01-21,Real Zaragoza,RCD Mallorca,domestic_cup,3,1,H,ESP2,ESP2,DCUP
+CIT,2019,Quarter-Finals,2020-01-22,Juventus FC,AS Roma,domestic_cup,3,1,H,ITA1,ITA1,DCUP
+CDR,2019,Third Round,2020-01-22,Girona FC,Villarreal CF,domestic_cup,0,3,A,ESP2,ESP1,DCUP
+CDR,2019,Third Round,2020-01-22,Elche CF,Athletic Bilbao,domestic_cup,5,6,A,ESP1,ESP1,DCUP
+CDR,2019,Third Round,2020-01-22,Real Sociedad,RCD Espanyol Barcelona,domestic_cup,2,0,H,ESP1,ESP2,DCUP
+CDR,2019,Third Round,2020-01-23,Rayo Vallecano,Real Betis Balompié,domestic_cup,6,4,H,ESP2,ESP1,DCUP
+FAC,2019,Fourth Round,2020-01-25,Brentford FC,Leicester City,domestic_cup,0,1,A,ENG2,ENG1,DCUP
+FAC,2019,Fourth Round,2020-01-25,Reading FC,Cardiff City,domestic_cup,1,1,D,ENG2,ENG2,DCUP
+FAC,2019,Fourth Round,2020-01-25,West Ham United,West Bromwich Albion,domestic_cup,0,1,A,ENG1,ENG1,DCUP
+FAC,2019,Fourth Round,2020-01-25,Burnley FC,Norwich City,domestic_cup,1,2,A,ENG1,ENG2,DCUP
+FAC,2019,Fourth Round,2020-01-25,Southampton FC,Tottenham Hotspur,domestic_cup,1,1,D,ENG1,ENG1,DCUP
+FAC,2019,Fourth Round,2020-01-26,Manchester City,Fulham FC,domestic_cup,4,0,H,ENG1,ENG1,DCUP
+FAC,2019,Fourth Round,2020-01-27,AFC Bournemouth,Arsenal FC,domestic_cup,1,2,A,ENG2,ENG1,DCUP
+CIT,2019,Quarter-Finals,2020-01-28,AC Milan,Torino FC,domestic_cup,4,2,H,ITA1,ITA1,DCUP
+SFA,2019,4th round deciders,2020-01-28,Hibernian FC,Dundee United FC,domestic_cup,4,2,H,SCO1,SCO2,DCUP
+CDR,2019,Round of 16,2020-01-29,Real Zaragoza,Real Madrid,domestic_cup,0,4,A,ESP2,ESP1,DCUP
+CDR,2019,Round of 16,2020-01-29,Real Sociedad,CA Osasuna,domestic_cup,3,1,H,ESP1,ESP1,DCUP
+CDR,2019,Round of 16,2020-01-29,Rayo Vallecano,Villarreal CF,domestic_cup,0,2,A,ESP2,ESP1,DCUP
+CIT,2019,Quarter-Finals,2020-01-29,Inter Milan,ACF Fiorentina,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CDR,2019,Round of 16,2020-01-30,FC Barcelona,CD Leganés,domestic_cup,5,0,H,ESP1,ESP2,DCUP
+CDR,2019,Quarter-Finals,2020-02-04,Granada CF,Valencia CF,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+DFB,2019,Round of 16,2020-02-04,FC Schalke 04,Hertha BSC,domestic_cup,3,2,H,DEU1,DEU1,DCUP
+DFB,2019,Round of 16,2020-02-04,SV Werder Bremen,Borussia Dortmund,domestic_cup,3,2,H,DEU1,DEU1,DCUP
+FAC,2019,4th round deciders,2020-02-04,Cardiff City,Reading FC,domestic_cup,4,7,A,ENG2,ENG2,DCUP
+DFB,2019,Round of 16,2020-02-04,Eintracht Frankfurt,RB Leipzig,domestic_cup,3,1,H,DEU1,DEU1,DCUP
+FAC,2019,4th round deciders,2020-02-05,Tottenham Hotspur,Southampton FC,domestic_cup,3,2,H,ENG1,ENG1,DCUP
+DFB,2019,Round of 16,2020-02-05,Bayer 04 Leverkusen,VfB Stuttgart,domestic_cup,2,1,H,DEU1,DEU1,DCUP
+DFB,2019,Round of 16,2020-02-05,Bayern Munich,TSG 1899 Hoffenheim,domestic_cup,4,3,H,DEU1,DEU1,DCUP
+CDR,2019,Quarter-Finals,2020-02-06,Athletic Bilbao,FC Barcelona,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+CDR,2019,Quarter-Finals,2020-02-06,Real Madrid,Real Sociedad,domestic_cup,3,4,A,ESP1,ESP1,DCUP
+SFA,2019,Round of 16,2020-02-08,Inverness Caledonian Thistle FC,Livingston FC,domestic_cup,1,0,H,SCO2,SCO1,DCUP
+SFA,2019,Round of 16,2020-02-08,Aberdeen FC,Kilmarnock FC,domestic_cup,0,0,D,SCO1,SCO1,DCUP
+SFA,2019,Round of 16,2020-02-08,St. Mirren FC,Motherwell FC,domestic_cup,1,1,D,SCO1,SCO1,DCUP
+SFA,2019,Round of 16,2020-02-08,Hamilton Academical FC,Rangers FC,domestic_cup,1,4,A,SCO1,SCO1,DCUP
+CIT,2019,Semi-Finals 1st Leg,2020-02-12,Inter Milan,SSC Napoli,domestic_cup,0,1,A,ITA1,ITA1,DCUP
+CDR,2019,Semi-Finals 1st Leg,2020-02-12,Athletic Bilbao,Granada CF,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+CIT,2019,Semi-Finals 1st Leg,2020-02-13,AC Milan,Juventus FC,domestic_cup,1,1,D,ITA1,ITA1,DCUP
+SFA,2019,Round of 16 Replay,2020-02-18,Motherwell FC,St. Mirren FC,domestic_cup,6,7,A,SCO1,SCO1,DCUP
+SFA,2019,Round of 16 Replay,2020-02-19,Kilmarnock FC,Aberdeen FC,domestic_cup,3,4,A,SCO1,SCO1,DCUP
+SFA,2019,Quarter-Finals,2020-02-28,Hibernian FC,Inverness Caledonian Thistle FC,domestic_cup,5,2,H,SCO1,SCO2,DCUP
+SFA,2019,Quarter-Finals,2020-02-29,Heart of Midlothian FC,Rangers FC,domestic_cup,1,0,H,SCO1,SCO1,DCUP
+SFA,2019,Quarter-Finals,2020-02-29,St. Mirren FC,Aberdeen FC,domestic_cup,0,2,A,SCO1,SCO1,DCUP
+SFA,2019,Quarter-Finals,2020-03-01,St. Johnstone FC,Celtic FC,domestic_cup,0,1,A,SCO1,SCO1,DCUP
+DFB,2019,Quarter-Finals,2020-03-03,FC Schalke 04,Bayern Munich,domestic_cup,0,1,A,DEU1,DEU1,DCUP
+FAC,2019,Fifth Round,2020-03-03,West Bromwich Albion,Newcastle United,domestic_cup,2,3,A,ENG1,ENG1,DCUP
+FAC,2019,Fifth Round,2020-03-03,Chelsea FC,Liverpool FC,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+FAC,2019,Fifth Round,2020-03-03,Reading FC,Sheffield United,domestic_cup,1,2,A,ENG2,ENG1,DCUP
+DFB,2019,Quarter-Finals,2020-03-04,Bayer 04 Leverkusen,1.FC Union Berlin,domestic_cup,3,1,H,DEU1,DEU1,DCUP
+DFB,2019,Quarter-Finals,2020-03-04,Eintracht Frankfurt,SV Werder Bremen,domestic_cup,2,0,H,DEU1,DEU1,DCUP
+FAC,2019,Fifth Round,2020-03-04,Tottenham Hotspur,Norwich City,domestic_cup,3,4,A,ENG1,ENG2,DCUP
+CDR,2019,Semi-Finals 2nd Leg,2020-03-05,Granada CF,Athletic Bilbao,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+DFB,2019,Semi-Finals,2020-06-10,Bayern Munich,Eintracht Frankfurt,domestic_cup,2,1,H,DEU1,DEU1,DCUP
+CIT,2019,Semi-Finals 2nd Leg,2020-06-12,Juventus FC,AC Milan,domestic_cup,0,0,D,ITA1,ITA1,DCUP
+CIT,2019,Semi-Finals 2nd Leg,2020-06-13,SSC Napoli,Inter Milan,domestic_cup,1,1,D,ITA1,ITA1,DCUP
+CIT,2019,Final,2020-06-17,SSC Napoli,Juventus FC,domestic_cup,4,2,H,ITA1,ITA1,DCUP
+FAC,2019,Quarter-Finals,2020-06-27,Norwich City,Manchester United,domestic_cup,1,2,A,ENG2,ENG1,DCUP
+FAC,2019,Quarter-Finals,2020-06-28,Leicester City,Chelsea FC,domestic_cup,0,1,A,ENG1,ENG1,DCUP
+FAC,2019,Quarter-Finals,2020-06-28,Sheffield United,Arsenal FC,domestic_cup,1,2,A,ENG1,ENG1,DCUP
+FAC,2019,Quarter-Finals,2020-06-28,Newcastle United,Manchester City,domestic_cup,0,2,A,ENG1,ENG1,DCUP
+DFB,2019,Final,2020-07-04,Bayer 04 Leverkusen,Bayern Munich,domestic_cup,2,4,A,DEU1,DEU1,DCUP
+FAC,2019,Semi-Finals,2020-07-18,Arsenal FC,Manchester City,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+FAC,2019,Semi-Finals,2020-07-19,Manchester United,Chelsea FC,domestic_cup,1,3,A,ENG1,ENG1,DCUP
+FAC,2019,Final,2020-08-01,Arsenal FC,Chelsea FC,domestic_cup,2,1,H,ENG1,ENG1,DCUP
+DFB,2020,First Round,2020-09-11,Eintracht Braunschweig,Hertha BSC,domestic_cup,5,4,H,DEU2,DEU1,DCUP
+DFB,2020,First Round,2020-09-12,1.FC Nuremberg,RB Leipzig,domestic_cup,0,3,A,DEU2,DEU1,DCUP
+CIT,2020,Third Round,2020-10-27,UC Sampdoria,US Salernitana 1919,domestic_cup,1,0,H,ITA1,ITA2,DCUP
+CIT,2020,Third Round,2020-10-28,Benevento Calcio,FC Empoli,domestic_cup,2,4,A,ITA1,ITA2,DCUP
+CIT,2020,Third Round,2020-10-28,Hellas Verona,Venezia FC,domestic_cup,6,4,H,ITA1,ITA2,DCUP
+CIT,2020,Third Round,2020-10-28,Torino FC,US Lecce,domestic_cup,3,1,H,ITA1,ITA2,DCUP
+CIT,2020,Third Round,2020-10-28,Parma Calcio 1913,Delfino Pescara 1936,domestic_cup,3,1,H,ITA1,ITA2,DCUP
+CIT,2020,Third Round,2020-10-28,FC Crotone,SPAL,domestic_cup,4,5,A,ITA1,ITA2,DCUP
+CIT,2020,Third Round,2020-10-28,Cagliari Calcio,US Cremonese,domestic_cup,1,0,H,ITA1,ITA2,DCUP
+SFA,2019,Semi-Finals,2020-10-31,Heart of Midlothian FC,Hibernian FC,domestic_cup,2,1,H,SCO1,SCO1,DCUP
+SFA,2019,Semi-Finals,2020-11-01,Celtic FC,Aberdeen FC,domestic_cup,2,0,H,SCO1,SCO1,DCUP
+CIT,2020,Fourth Round,2020-11-24,SPAL,AC Monza,domestic_cup,2,0,H,ITA2,ITA2,DCUP
+CIT,2020,Fourth Round,2020-11-25,FC Empoli,Brescia Calcio,domestic_cup,3,0,H,ITA2,ITA2,DCUP
+CIT,2020,Fourth Round,2020-11-25,Bologna FC 1909,Spezia Calcio,domestic_cup,2,4,A,ITA1,ITA1,DCUP
+CIT,2020,Fourth Round,2020-11-25,Udinese Calcio,ACF Fiorentina,domestic_cup,0,1,A,ITA1,ITA1,DCUP
+CIT,2020,Fourth Round,2020-11-25,Cagliari Calcio,Hellas Verona,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CIT,2020,Fourth Round,2020-11-26,UC Sampdoria,Genoa CFC,domestic_cup,1,3,A,ITA1,ITA1,DCUP
+SFA,2019,Final,2020-12-20,Celtic FC,Heart of Midlothian FC,domestic_cup,7,6,H,SCO1,SCO1,DCUP
+DFB,2020,Second Round,2020-12-22,FC Augsburg,RB Leipzig,domestic_cup,0,3,A,DEU1,DEU1,DCUP
+DFB,2020,Second Round,2020-12-22,TSG 1899 Hoffenheim,SpVgg Greuther Fürth,domestic_cup,8,9,A,DEU1,DEU2,DCUP
+DFB,2020,Second Round,2020-12-22,Eintracht Braunschweig,Borussia Dortmund,domestic_cup,0,2,A,DEU2,DEU1,DCUP
+DFB,2020,Second Round,2020-12-22,1.FC Union Berlin,SC Paderborn 07,domestic_cup,2,3,A,DEU1,DEU2,DCUP
+DFB,2020,Second Round,2020-12-23,Hannover 96,SV Werder Bremen,domestic_cup,0,3,A,DEU2,DEU1,DCUP
+DFB,2020,Second Round,2020-12-23,1.FSV Mainz 05,VfL Bochum,domestic_cup,2,5,A,DEU1,DEU2,DCUP
+DFB,2020,Second Round,2020-12-23,VfB Stuttgart,SC Freiburg,domestic_cup,1,0,H,DEU1,DEU1,DCUP
+FAC,2020,Third Round,2021-01-08,Wolverhampton Wanderers,Crystal Palace,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+FAC,2020,Third Round,2021-01-08,Aston Villa,Liverpool FC,domestic_cup,1,4,A,ENG1,ENG1,DCUP
+FAC,2020,Third Round,2021-01-09,Arsenal FC,Newcastle United,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+FAC,2020,Third Round,2021-01-09,Brentford FC,Middlesbrough FC,domestic_cup,2,1,H,ENG2,ENG2,DCUP
+FAC,2020,Third Round,2021-01-09,Manchester United,Watford FC,domestic_cup,1,0,H,ENG1,ENG2,DCUP
+FAC,2020,Third Round,2021-01-09,Luton Town,Reading FC,domestic_cup,1,0,H,ENG2,ENG2,DCUP
+FAC,2020,Third Round,2021-01-09,Queens Park Rangers,Fulham FC,domestic_cup,0,2,A,SCO1,ENG1,DCUP
+FAC,2020,Third Round,2021-01-09,Nottingham Forest,Cardiff City,domestic_cup,1,0,H,ENG2,ENG2,DCUP
+FAC,2020,Third Round,2021-01-09,Stoke City,Leicester City,domestic_cup,0,4,A,ENG2,ENG1,DCUP
+DFB,2020,Second Round,2021-01-12,Bayer 04 Leverkusen,Eintracht Frankfurt,domestic_cup,4,1,H,DEU1,DEU1,DCUP
+CIT,2020,Round of 16,2021-01-12,AC Milan,Torino FC,domestic_cup,5,4,H,ITA1,ITA1,DCUP
+CIT,2020,Round of 16,2021-01-13,Juventus FC,Genoa CFC,domestic_cup,3,2,H,ITA1,ITA1,DCUP
+CIT,2020,Round of 16,2021-01-13,SSC Napoli,FC Empoli,domestic_cup,3,2,H,ITA1,ITA2,DCUP
+CIT,2020,Round of 16,2021-01-13,ACF Fiorentina,Inter Milan,domestic_cup,1,2,A,ITA1,ITA1,DCUP
+CIT,2020,Round of 16,2021-01-14,US Sassuolo,SPAL,domestic_cup,0,2,A,ITA1,ITA2,DCUP
+CIT,2020,Round of 16,2021-01-14,Atalanta BC,Cagliari Calcio,domestic_cup,3,1,H,ITA1,ITA1,DCUP
+CDR,2020,Third Round,2021-01-16,CD Leganés,Sevilla FC,domestic_cup,0,1,A,ESP2,ESP1,DCUP
+CDR,2020,Third Round,2021-01-16,Rayo Vallecano,Elche CF,domestic_cup,2,0,H,ESP2,ESP1,DCUP
+CDR,2020,Third Round,2021-01-16,Girona FC,Cádiz CF,domestic_cup,2,0,H,ESP2,ESP1,DCUP
+CDR,2020,Third Round,2021-01-17,RCD Espanyol Barcelona,CA Osasuna,domestic_cup,0,2,A,ESP2,ESP1,DCUP
+CDR,2020,Third Round,2021-01-17,Sporting Gijón,Real Betis Balompié,domestic_cup,0,2,A,ESP2,ESP1,DCUP
+CDR,2020,Third Round,2021-01-17,Málaga CF,Granada CF,domestic_cup,1,2,A,ESP2,ESP1,DCUP
+CIT,2020,Round of 16,2021-01-19,AS Roma,Spezia Calcio,domestic_cup,0,3,A,ITA1,ITA1,DCUP
+CIT,2020,Round of 16,2021-01-21,SS Lazio,Parma Calcio 1913,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+FAC,2020,Fourth Round,2021-01-23,Southampton FC,Arsenal FC,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+FAC,2020,Fourth Round,2021-01-23,Swansea City,Nottingham Forest,domestic_cup,5,1,H,ENG2,ENG2,DCUP
+FAC,2020,Fourth Round,2021-01-24,Brentford FC,Leicester City,domestic_cup,1,3,A,ENG2,ENG1,DCUP
+FAC,2020,Fourth Round,2021-01-24,Manchester United,Liverpool FC,domestic_cup,3,2,H,ENG1,ENG1,DCUP
+FAC,2020,Fourth Round,2021-01-24,Chelsea FC,Luton Town,domestic_cup,3,1,H,ENG1,ENG2,DCUP
+FAC,2020,Fourth Round,2021-01-24,Fulham FC,Burnley FC,domestic_cup,0,3,A,ENG1,ENG1,DCUP
+CDR,2020,Round of 16,2021-01-26,Real Betis Balompié,Real Sociedad,domestic_cup,3,1,H,ESP1,ESP1,DCUP
+CIT,2020,Quarter-Finals,2021-01-26,Inter Milan,AC Milan,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CDR,2020,Round of 16,2021-01-26,Real Valladolid CF,Levante UD,domestic_cup,2,4,A,ESP1,ESP1,DCUP
+CDR,2020,Round of 16,2021-01-26,Girona FC,Villarreal CF,domestic_cup,0,1,A,ESP2,ESP1,DCUP
+CDR,2020,Round of 16,2021-01-27,UD Almería,CA Osasuna,domestic_cup,5,4,H,ESP2,ESP1,DCUP
+CIT,2020,Quarter-Finals,2021-01-27,Juventus FC,SPAL,domestic_cup,4,0,H,ITA1,ITA2,DCUP
+CDR,2020,Round of 16,2021-01-27,Sevilla FC,Valencia CF,domestic_cup,3,0,H,ESP1,ESP1,DCUP
+CDR,2020,Round of 16,2021-01-27,Rayo Vallecano,FC Barcelona,domestic_cup,1,2,A,ESP2,ESP1,DCUP
+CIT,2020,Quarter-Finals,2021-01-27,Atalanta BC,SS Lazio,domestic_cup,3,2,H,ITA1,ITA1,DCUP
+CIT,2020,Quarter-Finals,2021-01-28,SSC Napoli,Spezia Calcio,domestic_cup,4,2,H,ITA1,ITA1,DCUP
+CIT,2020,Semi-Finals 1st Leg,2021-02-02,Inter Milan,Juventus FC,domestic_cup,1,2,A,ITA1,ITA1,DCUP
+DFB,2020,Round of 16,2021-02-02,SV Werder Bremen,SpVgg Greuther Fürth,domestic_cup,2,0,H,DEU1,DEU2,DCUP
+DFB,2020,Round of 16,2021-02-02,Borussia Dortmund,SC Paderborn 07,domestic_cup,3,2,H,DEU1,DEU2,DCUP
+CDR,2020,Quarter-Finals,2021-02-02,UD Almería,Sevilla FC,domestic_cup,0,1,A,ESP2,ESP1,DCUP
+CDR,2020,Quarter-Finals,2021-02-03,Levante UD,Villarreal CF,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+CIT,2020,Semi-Finals 1st Leg,2021-02-03,SSC Napoli,Atalanta BC,domestic_cup,0,0,D,ITA1,ITA1,DCUP
+DFB,2020,Round of 16,2021-02-03,VfB Stuttgart,Borussia Mönchengladbach,domestic_cup,1,2,A,DEU1,DEU1,DCUP
+DFB,2020,Round of 16,2021-02-03,VfL Wolfsburg,FC Schalke 04,domestic_cup,1,0,H,DEU1,DEU1,DCUP
+CDR,2020,Quarter-Finals,2021-02-03,Granada CF,FC Barcelona,domestic_cup,3,5,A,ESP1,ESP1,DCUP
+DFB,2020,Round of 16,2021-02-03,RB Leipzig,VfL Bochum,domestic_cup,4,0,H,DEU1,DEU2,DCUP
+CDR,2020,Quarter-Finals,2021-02-04,Real Betis Balompié,Athletic Bilbao,domestic_cup,2,5,A,ESP1,ESP1,DCUP
+FAC,2020,Fifth Round,2021-02-09,Burnley FC,AFC Bournemouth,domestic_cup,0,2,A,ENG1,ENG2,DCUP
+FAC,2020,Fifth Round,2021-02-09,Manchester United,West Ham United,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+CIT,2020,Semi-Finals 2nd Leg,2021-02-09,Juventus FC,Inter Milan,domestic_cup,0,0,D,ITA1,ITA1,DCUP
+CIT,2020,Semi-Finals 2nd Leg,2021-02-10,Atalanta BC,SSC Napoli,domestic_cup,3,1,H,ITA1,ITA1,DCUP
+FAC,2020,Fifth Round,2021-02-10,Everton FC,Tottenham Hotspur,domestic_cup,5,4,H,ENG1,ENG1,DCUP
+FAC,2020,Fifth Round,2021-02-10,Leicester City,Brighton & Hove Albion,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+FAC,2020,Fifth Round,2021-02-10,Swansea City,Manchester City,domestic_cup,1,3,A,ENG2,ENG1,DCUP
+CDR,2020,Semi-Finals 1st Leg,2021-02-10,Sevilla FC,FC Barcelona,domestic_cup,2,0,H,ESP1,ESP1,DCUP
+CDR,2020,Semi-Finals 1st Leg,2021-02-11,Athletic Bilbao,Levante UD,domestic_cup,1,1,D,ESP1,ESP1,DCUP
+FAC,2020,Fifth Round,2021-02-11,Wolverhampton Wanderers,Southampton FC,domestic_cup,0,2,A,ENG1,ENG1,DCUP
+DFB,2020,Quarter-Finals,2021-03-02,Borussia Mönchengladbach,Borussia Dortmund,domestic_cup,0,1,A,DEU1,DEU1,DCUP
+DFB,2020,Quarter-Finals,2021-03-03,RB Leipzig,VfL Wolfsburg,domestic_cup,2,0,H,DEU1,DEU1,DCUP
+CDR,2020,Semi-Finals 2nd Leg,2021-03-03,FC Barcelona,Sevilla FC,domestic_cup,3,0,H,ESP1,ESP1,DCUP
+CDR,2020,Semi-Finals 2nd Leg,2021-03-04,Levante UD,Athletic Bilbao,domestic_cup,1,2,A,ESP1,ESP1,DCUP
+FAC,2020,Quarter-Finals,2021-03-20,Everton FC,Manchester City,domestic_cup,0,2,A,ENG1,ENG1,DCUP
+FAC,2020,Quarter-Finals,2021-03-20,AFC Bournemouth,Southampton FC,domestic_cup,0,3,A,ENG2,ENG1,DCUP
+FAC,2020,Quarter-Finals,2021-03-21,Leicester City,Manchester United,domestic_cup,3,1,H,ENG1,ENG1,DCUP
+FAC,2020,Quarter-Finals,2021-03-21,Chelsea FC,Sheffield United,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+SFA,2020,Third Round,2021-04-02,Ross County FC,Inverness Caledonian Thistle FC,domestic_cup,1,3,A,SCO1,SCO2,DCUP
+SFA,2020,Third Round,2021-04-03,Hamilton Academical FC,St. Mirren FC,domestic_cup,0,3,A,SCO1,SCO1,DCUP
+SFA,2020,Third Round,2021-04-03,Dundee FC,St. Johnstone FC,domestic_cup,0,1,A,SCO2,SCO1,DCUP
+CDR,2019,Final,2021-04-03,Athletic Bilbao,Real Sociedad,domestic_cup,0,1,A,ESP1,ESP1,DCUP
+SFA,2020,Round of 16,2021-04-16,St. Mirren FC,Inverness Caledonian Thistle FC,domestic_cup,2,1,H,SCO1,SCO2,DCUP
+CDR,2020,Final,2021-04-17,Athletic Bilbao,FC Barcelona,domestic_cup,0,4,A,ESP1,ESP1,DCUP
+SFA,2020,Round of 16,2021-04-17,Aberdeen FC,Livingston FC,domestic_cup,7,5,H,SCO1,SCO1,DCUP
+FAC,2020,Semi-Finals,2021-04-17,Chelsea FC,Manchester City,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+SFA,2020,Round of 16,2021-04-18,Rangers FC,Celtic FC,domestic_cup,2,0,H,SCO1,SCO1,DCUP
+FAC,2020,Semi-Finals,2021-04-18,Leicester City,Southampton FC,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+SFA,2020,Quarter-Finals,2021-04-24,Hibernian FC,Motherwell FC,domestic_cup,6,4,H,SCO1,SCO1,DCUP
+SFA,2020,Quarter-Finals,2021-04-25,Rangers FC,St. Johnstone FC,domestic_cup,3,5,A,SCO1,SCO1,DCUP
+SFA,2020,Quarter-Finals,2021-04-25,Aberdeen FC,Dundee United FC,domestic_cup,0,3,A,SCO1,SCO2,DCUP
+SFA,2020,Quarter-Finals,2021-04-26,Kilmarnock FC,St. Mirren FC,domestic_cup,7,8,A,SCO1,SCO1,DCUP
+DFB,2020,Semi-Finals,2021-04-30,SV Werder Bremen,RB Leipzig,domestic_cup,1,2,A,DEU1,DEU1,DCUP
+SFA,2020,Semi-Finals,2021-05-08,Dundee United FC,Hibernian FC,domestic_cup,0,2,A,SCO2,SCO1,DCUP
+SFA,2020,Semi-Finals,2021-05-09,St. Mirren FC,St. Johnstone FC,domestic_cup,1,2,A,SCO1,SCO1,DCUP
+DFB,2020,Final,2021-05-13,RB Leipzig,Borussia Dortmund,domestic_cup,1,4,A,DEU1,DEU1,DCUP
+FAC,2020,Final,2021-05-15,Chelsea FC,Leicester City,domestic_cup,0,1,A,ENG1,ENG1,DCUP
+CIT,2020,Final,2021-05-19,Atalanta BC,Juventus FC,domestic_cup,1,2,A,ITA1,ITA1,DCUP
+SFA,2020,Final,2021-05-22,St. Johnstone FC,Hibernian FC,domestic_cup,1,0,H,SCO1,SCO1,DCUP
+DFB,2021,First Round,2021-08-08,Eintracht Braunschweig,Hamburger SV,domestic_cup,1,2,A,DEU2,DEU2,DCUP
+CIT,2021,First Round,2021-08-14,Benevento Calcio,SPAL,domestic_cup,2,1,H,ITA1,ITA2,DCUP
+CIT,2021,First Round,2021-08-15,Torino FC,US Cremonese,domestic_cup,4,1,H,ITA1,ITA2,DCUP
+CIT,2021,First Round,2021-08-15,Parma Calcio 1913,US Lecce,domestic_cup,1,3,A,ITA1,ITA2,DCUP
+CIT,2021,First Round,2021-08-15,Venezia FC,Frosinone Calcio,domestic_cup,9,8,H,ITA2,ITA2,DCUP
+CIT,2021,First Round,2021-08-16,FC Crotone,Brescia Calcio,domestic_cup,6,4,H,ITA1,ITA2,DCUP
+DFB,2021,Second Round,2021-10-26,1.FSV Mainz 05,Arminia Bielefeld,domestic_cup,3,2,H,DEU1,DEU1,DCUP
+DFB,2021,Second Round,2021-10-26,1.FC Nuremberg,Hamburger SV,domestic_cup,3,5,A,DEU2,DEU2,DCUP
+DFB,2021,Second Round,2021-10-27,Hannover 96,Fortuna Düsseldorf,domestic_cup,3,0,H,DEU2,DEU2,DCUP
+DFB,2021,Second Round,2021-10-27,VfL Bochum,FC Augsburg,domestic_cup,7,6,H,DEU2,DEU1,DCUP
+DFB,2021,Second Round,2021-10-27,Borussia Mönchengladbach,Bayern Munich,domestic_cup,5,0,H,DEU1,DEU1,DCUP
+CIT,2021,Second Round,2021-12-14,Genoa CFC,US Salernitana 1919,domestic_cup,1,0,H,ITA1,ITA2,DCUP
+CDR,2021,Second Round,2021-12-14,SD Huesca,Girona FC,domestic_cup,0,1,A,ESP1,ESP2,DCUP
+CIT,2021,Second Round,2021-12-14,Udinese Calcio,FC Crotone,domestic_cup,4,0,H,ITA1,ITA1,DCUP
+CDR,2021,Second Round,2021-12-15,Real Valladolid CF,UD Las Palmas,domestic_cup,3,1,H,ESP1,ESP2,DCUP
+CIT,2021,Second Round,2021-12-15,ACF Fiorentina,Benevento Calcio,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CIT,2021,Second Round,2021-12-15,Hellas Verona,FC Empoli,domestic_cup,3,4,A,ITA1,ITA2,DCUP
+CIT,2021,Second Round,2021-12-16,UC Sampdoria,Torino FC,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+CIT,2021,Second Round,2021-12-16,Spezia Calcio,US Lecce,domestic_cup,0,2,A,ITA1,ITA2,DCUP
+CDR,2021,Third Round,2022-01-05,Real Valladolid CF,Real Betis Balompié,domestic_cup,0,3,A,ESP1,ESP1,DCUP
+CDR,2021,Third Round,2022-01-05,SD Eibar,RCD Mallorca,domestic_cup,1,2,A,ESP1,ESP2,DCUP
+CDR,2021,Third Round,2022-01-05,CD Leganés,Real Sociedad,domestic_cup,2,3,A,ESP2,ESP1,DCUP
+CDR,2021,Third Round,2022-01-06,Sporting Gijón,Villarreal CF,domestic_cup,2,1,H,ESP2,ESP1,DCUP
+CDR,2021,Third Round,2022-01-06,Real Zaragoza,Sevilla FC,domestic_cup,0,2,A,ESP2,ESP1,DCUP
+CDR,2021,Third Round,2022-01-06,UD Almería,Elche CF,domestic_cup,1,2,A,ESP2,ESP1,DCUP
+CDR,2021,Third Round,2022-01-06,Girona FC,CA Osasuna,domestic_cup,1,0,H,ESP2,ESP1,DCUP
+FAC,2021,Third Round,2022-01-08,Leicester City,Watford FC,domestic_cup,4,1,H,ENG1,ENG2,DCUP
+FAC,2021,Third Round,2022-01-08,Burnley FC,Huddersfield Town,domestic_cup,1,2,A,ENG1,ENG2,DCUP
+FAC,2021,Third Round,2022-01-08,West Bromwich Albion,Brighton & Hove Albion,domestic_cup,1,2,A,ENG1,ENG1,DCUP
+FAC,2021,Third Round,2022-01-08,Swansea City,Southampton FC,domestic_cup,2,3,A,ENG2,ENG1,DCUP
+FAC,2021,Third Round,2022-01-09,Nottingham Forest,Arsenal FC,domestic_cup,1,0,H,ENG2,ENG1,DCUP
+FAC,2021,Third Round,2022-01-09,Wolverhampton Wanderers,Sheffield United,domestic_cup,3,0,H,ENG1,ENG1,DCUP
+FAC,2021,Third Round,2022-01-09,West Ham United,Leeds United,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+FAC,2021,Third Round,2022-01-10,Manchester United,Aston Villa,domestic_cup,1,0,H,ENG1,ENG1,DCUP
+CIT,2021,Round of 16,2022-01-12,Atalanta BC,Venezia FC,domestic_cup,2,0,H,ITA1,ITA2,DCUP
+CIT,2021,Round of 16,2022-01-13,SSC Napoli,ACF Fiorentina,domestic_cup,2,5,A,ITA1,ITA1,DCUP
+CIT,2021,Round of 16,2022-01-13,AC Milan,Genoa CFC,domestic_cup,3,1,H,ITA1,ITA1,DCUP
+CDR,2021,Round of 16,2022-01-15,RCD Mallorca,RCD Espanyol Barcelona,domestic_cup,2,1,H,ESP2,ESP2,DCUP
+CDR,2021,Round of 16,2022-01-15,Sporting Gijón,Cádiz CF,domestic_cup,2,4,A,ESP2,ESP1,DCUP
+CDR,2021,Round of 16,2022-01-15,Girona FC,Rayo Vallecano,domestic_cup,1,2,A,ESP2,ESP2,DCUP
+CDR,2021,Round of 16,2022-01-16,Real Betis Balompié,Sevilla FC,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+CIT,2021,Round of 16,2022-01-18,Juventus FC,UC Sampdoria,domestic_cup,4,1,H,ITA1,ITA1,DCUP
+CIT,2021,Round of 16,2022-01-18,SS Lazio,Udinese Calcio,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+DFB,2021,Round of 16,2022-01-18,VfL Bochum,1.FSV Mainz 05,domestic_cup,3,1,H,DEU2,DEU1,DCUP
+CIT,2021,Round of 16,2022-01-19,US Sassuolo,Cagliari Calcio,domestic_cup,1,0,H,ITA1,ITA1,DCUP
+CDR,2021,Round of 16,2022-01-19,Real Sociedad,Atlético de Madrid,domestic_cup,2,0,H,ESP1,ESP1,DCUP
+CIT,2021,Round of 16,2022-01-19,Inter Milan,FC Empoli,domestic_cup,3,2,H,ITA1,ITA2,DCUP
+DFB,2021,Round of 16,2022-01-19,Hannover 96,Borussia Mönchengladbach,domestic_cup,3,0,H,DEU2,DEU1,DCUP
+DFB,2021,Round of 16,2022-01-19,TSG 1899 Hoffenheim,SC Freiburg,domestic_cup,1,4,A,DEU1,DEU1,DCUP
+DFB,2021,Round of 16,2022-01-19,Hertha BSC,1.FC Union Berlin,domestic_cup,2,3,A,DEU1,DEU1,DCUP
+CIT,2021,Round of 16,2022-01-20,AS Roma,US Lecce,domestic_cup,3,1,H,ITA1,ITA2,DCUP
+CDR,2021,Round of 16,2022-01-20,Elche CF,Real Madrid,domestic_cup,1,2,A,ESP1,ESP1,DCUP
+CDR,2021,Round of 16,2022-01-20,Athletic Bilbao,FC Barcelona,domestic_cup,3,2,H,ESP1,ESP1,DCUP
+SFA,2021,Fourth Round,2022-01-22,Livingston FC,Ross County FC,domestic_cup,1,0,H,SCO1,SCO1,DCUP
+SFA,2021,Fourth Round,2022-01-22,Kilmarnock FC,Dundee United FC,domestic_cup,1,2,A,SCO1,SCO2,DCUP
+CDR,2021,Quarter-Finals,2022-02-02,Valencia CF,Cádiz CF,domestic_cup,2,1,H,ESP1,ESP1,DCUP
+CDR,2021,Quarter-Finals,2022-02-02,Rayo Vallecano,RCD Mallorca,domestic_cup,1,0,H,ESP2,ESP2,DCUP
+CDR,2021,Quarter-Finals,2022-02-03,Athletic Bilbao,Real Madrid,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+CDR,2021,Quarter-Finals,2022-02-03,Real Sociedad,Real Betis Balompié,domestic_cup,0,4,A,ESP1,ESP1,DCUP
+FAC,2021,Fourth Round,2022-02-04,Manchester United,Middlesbrough FC,domestic_cup,8,9,A,ENG1,ENG2,DCUP
+FAC,2021,Fourth Round,2022-02-05,Wolverhampton Wanderers,Norwich City,domestic_cup,0,1,A,ENG1,ENG2,DCUP
+FAC,2021,Fourth Round,2022-02-05,Tottenham Hotspur,Brighton & Hove Albion,domestic_cup,3,1,H,ENG1,ENG1,DCUP
+FAC,2021,Fourth Round,2022-02-05,Everton FC,Brentford FC,domestic_cup,4,1,H,ENG1,ENG2,DCUP
+FAC,2021,Fourth Round,2022-02-05,Manchester City,Fulham FC,domestic_cup,4,1,H,ENG1,ENG1,DCUP
+FAC,2021,Fourth Round,2022-02-06,Liverpool FC,Cardiff City,domestic_cup,3,1,H,ENG1,ENG2,DCUP
+FAC,2021,Fourth Round,2022-02-06,Nottingham Forest,Leicester City,domestic_cup,4,1,H,ENG2,ENG1,DCUP
+CIT,2021,Quarter-Finals,2022-02-08,Inter Milan,AS Roma,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+CDR,2021,Semi-Finals 1st Leg,2022-02-09,Rayo Vallecano,Real Betis Balompié,domestic_cup,1,2,A,ESP2,ESP1,DCUP
+CIT,2021,Quarter-Finals,2022-02-09,AC Milan,SS Lazio,domestic_cup,4,0,H,ITA1,ITA1,DCUP
+CDR,2021,Semi-Finals 1st Leg,2022-02-10,Athletic Bilbao,Valencia CF,domestic_cup,1,1,D,ESP1,ESP1,DCUP
+CIT,2021,Quarter-Finals,2022-02-10,Atalanta BC,ACF Fiorentina,domestic_cup,2,3,A,ITA1,ITA1,DCUP
+CIT,2021,Quarter-Finals,2022-02-10,Juventus FC,US Sassuolo,domestic_cup,2,1,H,ITA1,ITA1,DCUP
+SFA,2021,Round of 16,2022-02-12,Motherwell FC,Aberdeen FC,domestic_cup,2,1,H,SCO1,SCO1,DCUP
+SFA,2021,Round of 16,2022-02-12,Heart of Midlothian FC,Livingston FC,domestic_cup,4,3,H,SCO1,SCO1,DCUP
+CIT,2021,Semi-Finals 1st Leg,2022-03-01,AC Milan,Inter Milan,domestic_cup,0,0,D,ITA1,ITA1,DCUP
+FAC,2021,Fifth Round,2022-03-01,Crystal Palace,Stoke City,domestic_cup,2,1,H,ENG1,ENG2,DCUP
+FAC,2021,Fifth Round,2022-03-01,Middlesbrough FC,Tottenham Hotspur,domestic_cup,1,0,H,ENG2,ENG1,DCUP
+FAC,2021,Fifth Round,2022-03-02,Luton Town,Chelsea FC,domestic_cup,2,3,A,ENG2,ENG1,DCUP
+FAC,2021,Fifth Round,2022-03-02,Southampton FC,West Ham United,domestic_cup,3,1,H,ENG1,ENG1,DCUP
+CIT,2021,Semi-Finals 1st Leg,2022-03-02,ACF Fiorentina,Juventus FC,domestic_cup,0,1,A,ITA1,ITA1,DCUP
+DFB,2021,Quarter-Finals,2022-03-02,VfL Bochum,SC Freiburg,domestic_cup,1,2,A,DEU2,DEU1,DCUP
+FAC,2021,Fifth Round,2022-03-02,Liverpool FC,Norwich City,domestic_cup,2,1,H,ENG1,ENG2,DCUP
+CDR,2021,Semi-Finals 2nd Leg,2022-03-02,Valencia CF,Athletic Bilbao,domestic_cup,1,0,H,ESP1,ESP1,DCUP
+DFB,2021,Quarter-Finals,2022-03-02,Hannover 96,RB Leipzig,domestic_cup,0,4,A,DEU2,DEU1,DCUP
+CDR,2021,Semi-Finals 2nd Leg,2022-03-03,Real Betis Balompié,Rayo Vallecano,domestic_cup,1,1,D,ESP1,ESP2,DCUP
+FAC,2021,Fifth Round,2022-03-07,Nottingham Forest,Huddersfield Town,domestic_cup,2,1,H,ENG2,ENG2,DCUP
+SFA,2021,Quarter-Finals,2022-03-12,Heart of Midlothian FC,St. Mirren FC,domestic_cup,4,2,H,SCO1,SCO1,DCUP
+SFA,2021,Quarter-Finals,2022-03-13,Dundee FC,Rangers FC,domestic_cup,0,3,A,SCO2,SCO1,DCUP
+SFA,2021,Quarter-Finals,2022-03-13,Motherwell FC,Hibernian FC,domestic_cup,1,2,A,SCO1,SCO1,DCUP
+SFA,2021,Quarter-Finals,2022-03-14,Dundee United FC,Celtic FC,domestic_cup,0,3,A,SCO2,SCO1,DCUP
+FAC,2021,Quarter-Finals,2022-03-19,Middlesbrough FC,Chelsea FC,domestic_cup,0,2,A,ENG2,ENG1,DCUP
+FAC,2021,Quarter-Finals,2022-03-20,Nottingham Forest,Liverpool FC,domestic_cup,0,1,A,ENG2,ENG1,DCUP
+FAC,2021,Quarter-Finals,2022-03-20,Southampton FC,Manchester City,domestic_cup,1,4,A,ENG1,ENG1,DCUP
+FAC,2021,Quarter-Finals,2022-03-20,Crystal Palace,Everton FC,domestic_cup,4,0,H,ENG1,ENG1,DCUP
+SFA,2021,Semi-Finals,2022-04-16,Heart of Midlothian FC,Hibernian FC,domestic_cup,2,1,H,SCO1,SCO1,DCUP
+FAC,2021,Semi-Finals,2022-04-16,Manchester City,Liverpool FC,domestic_cup,2,3,A,ENG1,ENG1,DCUP
+FAC,2021,Semi-Finals,2022-04-17,Chelsea FC,Crystal Palace,domestic_cup,2,0,H,ENG1,ENG1,DCUP
+SFA,2021,Semi-Finals,2022-04-17,Celtic FC,Rangers FC,domestic_cup,1,2,A,SCO1,SCO1,DCUP
+DFB,2021,Semi-Finals,2022-04-19,Hamburger SV,SC Freiburg,domestic_cup,1,3,A,DEU2,DEU1,DCUP
+CIT,2021,Semi-Finals 2nd Leg,2022-04-19,Inter Milan,AC Milan,domestic_cup,3,0,H,ITA1,ITA1,DCUP
+DFB,2021,Semi-Finals,2022-04-20,RB Leipzig,1.FC Union Berlin,domestic_cup,2,1,H,DEU1,DEU1,DCUP
+CIT,2021,Semi-Finals 2nd Leg,2022-04-20,Juventus FC,ACF Fiorentina,domestic_cup,2,0,H,ITA1,ITA1,DCUP
+CDR,2021,Final,2022-04-23,Real Betis Balompié,Valencia CF,domestic_cup,6,5,H,ESP1,ESP1,DCUP
+CIT,2021,Final,2022-05-11,Juventus FC,Inter Milan,domestic_cup,2,4,A,ITA1,ITA1,DCUP
+FAC,2021,Final,2022-05-14,Chelsea FC,Liverpool FC,domestic_cup,5,6,A,ENG1,ENG1,DCUP
+DFB,2021,Final,2022-05-21,SC Freiburg,RB Leipzig,domestic_cup,3,5,A,DEU1,DEU1,DCUP
+SFA,2021,Final,2022-05-21,Rangers FC,Heart of Midlothian FC,domestic_cup,2,0,H,SCO1,SCO1,DCUP

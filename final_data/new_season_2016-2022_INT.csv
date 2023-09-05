@@ -1,0 +1,745 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeDiv,AwayDiv
+INT1,13/09/2016,Barcelona,Celtic,7,0,H,ESP1,SCO1
+INT1,13/09/2016,Bayern Munich,Rostov,5,0,H,DEU1,RUS1
+INT1,13/09/2016,Dynamo Kiev,Napoli,1,2,A,UKR1,ITA1
+INT1,13/09/2016,Benfica,Besiktas,1,1,D,PRT1,TUR1
+INT1,13/09/2016,Paris SG,Arsenal,1,1,D,FRA1,ENG1
+INT1,13/09/2016,Basel,Ludogorets,1,1,D,CHE1,BGR1
+INT1,13/09/2016,PSV Eindhoven,Ath Madrid,0,1,A,NLD1,ESP1
+INT1,14/09/2016,Club Brugge,Leicester,0,3,A,BEL1,ENG1
+INT1,14/09/2016,Tottenham,Monaco,1,2,A,ENG1,FRA1
+INT1,14/09/2016,Man City,M'gladbach,4,0,H,ENG1,DEU1
+INT1,14/09/2016,Juventus,Sevilla,0,0,D,ITA1,ESP1
+INT1,14/09/2016,Legia Warsaw,Dortmund,0,6,A,POL1,DEU1
+INT1,14/09/2016,Real Madrid,Sp Lisbon,2,1,H,ESP1,PRT1
+INT1,14/09/2016,Leverkusen,CSKA Moscow,2,2,D,DEU1,RUS1
+INT1,14/09/2016,Porto,FC Copenhagen,1,1,D,PRT1,DNK1
+INT1,14/09/2016,Lyon,Dinamo Zagreb,3,0,H,FRA1,HRV1
+INT1,27/09/2016,Dinamo Zagreb,Juventus,0,4,A,HRV1,ITA1
+INT1,27/09/2016,FC Copenhagen,Club Brugge,4,0,H,DNK1,BEL1
+INT1,27/09/2016,Leicester,Porto,1,0,H,ENG1,PRT1
+INT1,27/09/2016,Dortmund,Real Madrid,2,2,D,DEU1,ESP1
+INT1,27/09/2016,Sp Lisbon,Legia Warsaw,2,0,H,PRT1,POL1
+INT1,27/09/2016,CSKA Moscow,Tottenham,0,1,A,RUS1,ENG1
+INT1,27/09/2016,Monaco,Leverkusen,1,1,D,FRA1,DEU1
+INT1,27/09/2016,Sevilla,Lyon,1,0,H,ESP1,FRA1
+INT1,28/09/2016,Arsenal,Basel,2,0,H,ENG1,CHE1
+INT1,28/09/2016,Celtic,Man City,3,3,D,SCO1,ENG1
+INT1,28/09/2016,Napoli,Benfica,4,2,H,ITA1,PRT1
+INT1,28/09/2016,Ath Madrid,Bayern Munich,1,0,H,ESP1,DEU1
+INT1,28/09/2016,M'gladbach,Barcelona,1,2,A,DEU1,ESP1
+INT1,28/09/2016,Besiktas,Dynamo Kiev,1,1,D,TUR1,UKR1
+INT1,28/09/2016,Rostov,PSV Eindhoven,2,2,D,RUS1,NLD1
+INT1,28/09/2016,Ludogorets,Paris SG,1,3,A,BGR1,FRA1
+INT1,18/10/2016,Club Brugge,Porto,1,2,A,BEL1,PRT1
+INT1,18/10/2016,Dinamo Zagreb,Sevilla,0,1,A,HRV1,ESP1
+INT1,18/10/2016,Leicester,FC Copenhagen,1,0,H,ENG1,DNK1
+INT1,18/10/2016,Real Madrid,Legia Warsaw,5,1,H,ESP1,POL1
+INT1,18/10/2016,Leverkusen,Tottenham,0,0,D,DEU1,ENG1
+INT1,18/10/2016,Sp Lisbon,Dortmund,1,2,A,PRT1,DEU1
+INT1,18/10/2016,CSKA Moscow,Monaco,1,1,D,RUS1,FRA1
+INT1,18/10/2016,Lyon,Juventus,0,1,A,FRA1,ITA1
+INT1,19/10/2016,Arsenal,Ludogorets,6,0,H,ENG1,BGR1
+INT1,19/10/2016,Celtic,M'gladbach,0,2,A,SCO1,DEU1
+INT1,19/10/2016,Napoli,Besiktas,2,3,A,ITA1,TUR1
+INT1,19/10/2016,Barcelona,Man City,4,0,H,ESP1,ENG1
+INT1,19/10/2016,Bayern Munich,PSV Eindhoven,4,1,H,DEU1,NLD1
+INT1,19/10/2016,Dynamo Kiev,Benfica,0,2,A,UKR1,PRT1
+INT1,19/10/2016,Rostov,Ath Madrid,0,1,A,RUS1,ESP1
+INT1,19/10/2016,Paris SG,Basel,3,0,H,FRA1,CHE1
+INT1,01/11/2016,Besiktas,Napoli,1,1,D,TUR1,ITA1
+INT1,01/11/2016,Man City,Barcelona,3,1,H,ENG1,ESP1
+INT1,01/11/2016,Ath Madrid,Rostov,2,1,H,ESP1,RUS1
+INT1,01/11/2016,M'gladbach,Celtic,1,1,D,DEU1,SCO1
+INT1,01/11/2016,Benfica,Dynamo Kiev,1,0,H,PRT1,UKR1
+INT1,01/11/2016,Basel,Paris SG,1,2,A,CHE1,FRA1
+INT1,01/11/2016,PSV Eindhoven,Bayern Munich,1,2,A,NLD1,DEU1
+INT1,01/11/2016,Ludogorets,Arsenal,2,3,A,BGR1,ENG1
+INT1,02/11/2016,FC Copenhagen,Leicester,0,0,D,DNK1,ENG1
+INT1,02/11/2016,Tottenham,Leverkusen,0,1,A,ENG1,DEU1
+INT1,02/11/2016,Juventus,Lyon,1,1,D,ITA1,FRA1
+INT1,02/11/2016,Legia Warsaw,Real Madrid,3,3,D,POL1,ESP1
+INT1,02/11/2016,Dortmund,Sp Lisbon,1,0,H,DEU1,PRT1
+INT1,02/11/2016,Porto,Club Brugge,1,0,H,PRT1,BEL1
+INT1,02/11/2016,Monaco,CSKA Moscow,3,0,H,FRA1,RUS1
+INT1,02/11/2016,Sevilla,Dinamo Zagreb,4,0,H,ESP1,HRV1
+INT1,22/11/2016,CSKA Moscow,Leverkusen,1,1,D,RUS1,DEU1
+INT1,22/11/2016,Dinamo Zagreb,Lyon,0,1,A,HRV1,FRA1
+INT1,22/11/2016,FC Copenhagen,Porto,0,0,D,DNK1,PRT1
+INT1,22/11/2016,Leicester,Club Brugge,2,1,H,ENG1,BEL1
+INT1,22/11/2016,Dortmund,Legia Warsaw,8,4,H,DEU1,POL1
+INT1,22/11/2016,Sp Lisbon,Real Madrid,1,2,A,PRT1,ESP1
+INT1,22/11/2016,Monaco,Tottenham,2,1,H,FRA1,ENG1
+INT1,22/11/2016,Sevilla,Juventus,1,3,A,ESP1,ITA1
+INT1,23/11/2016,Rostov,Bayern Munich,3,2,H,RUS1,DEU1
+INT1,23/11/2016,Besiktas,Benfica,3,3,D,TUR1,PRT1
+INT1,23/11/2016,Arsenal,Paris SG,2,2,D,ENG1,FRA1
+INT1,23/11/2016,Celtic,Barcelona,0,2,A,SCO1,ESP1
+INT1,23/11/2016,Napoli,Dynamo Kiev,0,0,D,ITA1,UKR1
+INT1,23/11/2016,Ath Madrid,PSV Eindhoven,2,0,H,ESP1,NLD1
+INT1,23/11/2016,M'gladbach,Man City,1,1,D,DEU1,ENG1
+INT1,23/11/2016,Ludogorets,Basel,0,0,D,BGR1,CHE1
+INT1,06/12/2016,Man City,Celtic,1,1,D,ENG1,SCO1
+INT1,06/12/2016,Barcelona,M'gladbach,4,0,H,ESP1,DEU1
+INT1,06/12/2016,Bayern Munich,Ath Madrid,1,0,H,DEU1,ESP1
+INT1,06/12/2016,Dynamo Kiev,Besiktas,6,0,H,UKR1,TUR1
+INT1,06/12/2016,Benfica,Napoli,1,2,A,PRT1,ITA1
+INT1,06/12/2016,Paris SG,Ludogorets,2,2,D,FRA1,BGR1
+INT1,06/12/2016,Basel,Arsenal,1,4,A,CHE1,ENG1
+INT1,06/12/2016,PSV Eindhoven,Rostov,0,0,D,NLD1,RUS1
+INT1,07/12/2016,Club Brugge,FC Copenhagen,0,2,A,BEL1,DNK1
+INT1,07/12/2016,Tottenham,CSKA Moscow,3,1,H,ENG1,RUS1
+INT1,07/12/2016,Juventus,Dinamo Zagreb,2,0,H,ITA1,HRV1
+INT1,07/12/2016,Legia Warsaw,Sp Lisbon,1,0,H,POL1,PRT1
+INT1,07/12/2016,Real Madrid,Dortmund,2,2,D,ESP1,DEU1
+INT1,07/12/2016,Leverkusen,Monaco,3,0,H,DEU1,FRA1
+INT1,07/12/2016,Porto,Leicester,5,0,H,PRT1,ENG1
+INT1,07/12/2016,Lyon,Sevilla,0,0,D,FRA1,ESP1
+INT1,14/02/2017,Benfica,Dortmund,1,0,H,PRT1,DEU1
+INT1,14/02/2017,Paris SG,Barcelona,4,0,H,FRA1,ESP1
+INT1,15/02/2017,Real Madrid,Napoli,3,1,H,ESP1,ITA1
+INT1,15/02/2017,Bayern Munich,Arsenal,5,1,H,DEU1,ENG1
+INT1,21/02/2017,Man City,Monaco,5,3,H,ENG1,FRA1
+INT1,21/02/2017,Leverkusen,Ath Madrid,2,4,A,DEU1,ESP1
+INT1,22/02/2017,Porto,Juventus,0,2,A,PRT1,ITA1
+INT1,22/02/2017,Sevilla,Leicester,2,1,H,ESP1,ENG1
+INT1,07/03/2017,Arsenal,Bayern Munich,1,5,A,ENG1,DEU1
+INT1,07/03/2017,Napoli,Real Madrid,1,3,A,ITA1,ESP1
+INT1,08/03/2017,Barcelona,Paris SG,6,1,H,ESP1,FRA1
+INT1,08/03/2017,Dortmund,Benfica,4,0,H,DEU1,PRT1
+INT1,14/03/2017,Leicester,Sevilla,2,0,H,ENG1,ESP1
+INT1,14/03/2017,Juventus,Porto,1,0,H,ITA1,PRT1
+INT1,15/03/2017,Ath Madrid,Leverkusen,0,0,D,ESP1,DEU1
+INT1,15/03/2017,Monaco,Man City,3,1,H,FRA1,ENG1
+INT1,11/04/2017,Juventus,Barcelona,3,0,H,ITA1,ESP1
+INT1,12/04/2017,Dortmund,Monaco,2,3,A,DEU1,FRA1
+INT1,12/04/2017,Ath Madrid,Leicester,1,0,H,ESP1,ENG1
+INT1,12/04/2017,Bayern Munich,Real Madrid,1,2,A,DEU1,ESP1
+INT1,18/04/2017,Leicester,Ath Madrid,1,1,D,ENG1,ESP1
+INT1,18/04/2017,Real Madrid,Bayern Munich,4,2,H,ESP1,DEU1
+INT1,19/04/2017,Barcelona,Juventus,0,0,D,ESP1,ITA1
+INT1,19/04/2017,Monaco,Dortmund,3,1,H,FRA1,DEU1
+INT1,02/05/2017,Real Madrid,Ath Madrid,3,0,H,ESP1,ESP1
+INT1,03/05/2017,Monaco,Juventus,0,2,A,FRA1,ITA1
+INT1,09/05/2017,Juventus,Monaco,2,1,H,ITA1,FRA1
+INT1,10/05/2017,Ath Madrid,Real Madrid,2,1,H,ESP1,ESP1
+INT1,03/06/2017,Juventus,Real Madrid,1,4,A,ITA1,ESP1
+INT1,12/09/2017,Chelsea,FK Qarabag,6,0,H,ENG1,AZE1
+INT1,12/09/2017,Man United,Basel,3,0,H,ENG1,CHE1
+INT1,12/09/2017,Celtic,Paris SG,0,5,A,SCO1,FRA1
+INT1,12/09/2017,Roma,Ath Madrid,0,0,D,ITA1,ESP1
+INT1,12/09/2017,Barcelona,Juventus,3,0,H,ESP1,ITA1
+INT1,12/09/2017,Bayern Munich,Anderlecht,3,0,H,DEU1,BEL1
+INT1,12/09/2017,Olympiakos,Sp Lisbon,2,3,A,GRC1,PRT1
+INT1,12/09/2017,Benfica,CSKA Moscow,1,2,A,PRT1,RUS1
+INT1,13/09/2017,Liverpool,Sevilla,2,2,D,ENG1,ESP1
+INT1,13/09/2017,Tottenham,Dortmund,3,1,H,ENG1,DEU1
+INT1,13/09/2017,Real Madrid,Apoel Nicosia,3,0,H,ESP1,CYP1
+INT1,13/09/2017,NK Maribor,Spartak Moscow,1,1,D,SVN1,RUS1
+INT1,13/09/2017,Shakhtar Donetsk,Napoli,2,1,H,UKR1,ITA1
+INT1,13/09/2017,Porto,Besiktas,1,3,A,PRT1,TUR1
+INT1,13/09/2017,Feyenoord,Man City,0,4,A,NLD1,ENG1
+INT1,13/09/2017,RB Leipzig,Monaco,1,1,D,DEU1,FRA1
+INT1,26/09/2017,Apoel Nicosia,Tottenham,0,3,A,CYP1,ENG1
+INT1,26/09/2017,Man City,Shakhtar Donetsk,2,0,H,ENG1,UKR1
+INT1,26/09/2017,Napoli,Feyenoord,3,1,H,ITA1,NLD1
+INT1,26/09/2017,Dortmund,Real Madrid,1,3,A,DEU1,ESP1
+INT1,26/09/2017,Besiktas,RB Leipzig,2,0,H,TUR1,DEU1
+INT1,26/09/2017,Spartak Moscow,Liverpool,1,1,D,RUS1,ENG1
+INT1,26/09/2017,Monaco,Porto,0,3,A,FRA1,PRT1
+INT1,26/09/2017,Sevilla,NK Maribor,3,0,H,ESP1,SVN1
+INT1,27/09/2017,FK Qarabag,Roma,1,2,A,AZE1,ITA1
+INT1,27/09/2017,Anderlecht,Celtic,0,3,A,BEL1,SCO1
+INT1,27/09/2017,Juventus,Olympiakos,2,0,H,ITA1,GRC1
+INT1,27/09/2017,Ath Madrid,Chelsea,1,2,A,ESP1,ENG1
+INT1,27/09/2017,Sp Lisbon,Barcelona,0,1,A,PRT1,ESP1
+INT1,27/09/2017,CSKA Moscow,Man United,1,4,A,RUS1,ENG1
+INT1,27/09/2017,Paris SG,Bayern Munich,3,0,H,FRA1,DEU1
+INT1,27/09/2017,Basel,Benfica,5,0,H,CHE1,PRT1
+INT1,17/10/2017,Apoel Nicosia,Dortmund,1,1,D,CYP1,DEU1
+INT1,17/10/2017,Man City,Napoli,2,1,H,ENG1,ITA1
+INT1,17/10/2017,Real Madrid,Tottenham,1,1,D,ESP1,ENG1
+INT1,17/10/2017,NK Maribor,Liverpool,0,7,A,SVN1,ENG1
+INT1,17/10/2017,Spartak Moscow,Sevilla,5,1,H,RUS1,ESP1
+INT1,17/10/2017,Monaco,Besiktas,1,2,A,FRA1,TUR1
+INT1,17/10/2017,Feyenoord,Shakhtar Donetsk,1,2,A,NLD1,UKR1
+INT1,17/10/2017,RB Leipzig,Porto,3,2,H,DEU1,PRT1
+INT1,18/10/2017,FK Qarabag,Ath Madrid,0,0,D,AZE1,ESP1
+INT1,18/10/2017,Anderlecht,Paris SG,0,4,A,BEL1,FRA1
+INT1,18/10/2017,Chelsea,Roma,3,3,D,ENG1,ITA1
+INT1,18/10/2017,Juventus,Sp Lisbon,2,1,H,ITA1,PRT1
+INT1,18/10/2017,Barcelona,Olympiakos,3,1,H,ESP1,GRC1
+INT1,18/10/2017,Bayern Munich,Celtic,3,0,H,DEU1,SCO1
+INT1,18/10/2017,Benfica,Man United,0,1,A,PRT1,ENG1
+INT1,18/10/2017,CSKA Moscow,Basel,0,2,A,RUS1,CHE1
+INT1,31/10/2017,Man United,Benfica,2,0,H,ENG1,PRT1
+INT1,31/10/2017,Celtic,Bayern Munich,1,2,A,SCO1,DEU1
+INT1,31/10/2017,Roma,Chelsea,3,0,H,ITA1,ENG1
+INT1,31/10/2017,Ath Madrid,FK Qarabag,1,1,D,ESP1,AZE1
+INT1,31/10/2017,Olympiakos,Barcelona,0,0,D,GRC1,ESP1
+INT1,31/10/2017,Sp Lisbon,Juventus,1,1,D,PRT1,ITA1
+INT1,31/10/2017,Paris SG,Anderlecht,5,0,H,FRA1,BEL1
+INT1,31/10/2017,Basel,CSKA Moscow,1,2,A,CHE1,RUS1
+INT1,01/11/2017,Besiktas,Monaco,1,1,D,TUR1,FRA1
+INT1,01/11/2017,Liverpool,NK Maribor,3,0,H,ENG1,SVN1
+INT1,01/11/2017,Tottenham,Real Madrid,3,1,H,ENG1,ESP1
+INT1,01/11/2017,Napoli,Man City,2,4,A,ITA1,ENG1
+INT1,01/11/2017,Dortmund,Apoel Nicosia,1,1,D,DEU1,CYP1
+INT1,01/11/2017,Shakhtar Donetsk,Feyenoord,3,1,H,UKR1,NLD1
+INT1,01/11/2017,Porto,RB Leipzig,3,1,H,PRT1,DEU1
+INT1,01/11/2017,Sevilla,Spartak Moscow,2,1,H,ESP1,RUS1
+INT1,21/11/2017,Besiktas,Porto,1,1,D,TUR1,PRT1
+INT1,21/11/2017,Spartak Moscow,NK Maribor,1,1,D,RUS1,SVN1
+INT1,21/11/2017,Apoel Nicosia,Real Madrid,0,6,A,CYP1,ESP1
+INT1,21/11/2017,Man City,Feyenoord,1,0,H,ENG1,NLD1
+INT1,21/11/2017,Napoli,Shakhtar Donetsk,3,0,H,ITA1,UKR1
+INT1,21/11/2017,Dortmund,Tottenham,1,2,A,DEU1,ENG1
+INT1,21/11/2017,Monaco,RB Leipzig,1,4,A,FRA1,DEU1
+INT1,21/11/2017,Sevilla,Liverpool,3,3,D,ESP1,ENG1
+INT1,22/11/2017,CSKA Moscow,Benfica,2,0,H,RUS1,PRT1
+INT1,22/11/2017,FK Qarabag,Chelsea,0,4,A,AZE1,ENG1
+INT1,22/11/2017,Anderlecht,Bayern Munich,1,2,A,BEL1,DEU1
+INT1,22/11/2017,Juventus,Barcelona,0,0,D,ITA1,ESP1
+INT1,22/11/2017,Ath Madrid,Roma,2,0,H,ESP1,ITA1
+INT1,22/11/2017,Sp Lisbon,Olympiakos,3,1,H,PRT1,GRC1
+INT1,22/11/2017,Paris SG,Celtic,7,1,H,FRA1,SCO1
+INT1,22/11/2017,Basel,Man United,1,0,H,CHE1,ENG1
+INT1,05/12/2017,Chelsea,Ath Madrid,1,1,D,ENG1,ESP1
+INT1,05/12/2017,Man United,CSKA Moscow,2,1,H,ENG1,RUS1
+INT1,05/12/2017,Celtic,Anderlecht,0,1,A,SCO1,BEL1
+INT1,05/12/2017,Roma,FK Qarabag,1,0,H,ITA1,AZE1
+INT1,05/12/2017,Barcelona,Sp Lisbon,2,0,H,ESP1,PRT1
+INT1,05/12/2017,Bayern Munich,Paris SG,3,1,H,DEU1,FRA1
+INT1,05/12/2017,Olympiakos,Juventus,0,2,A,GRC1,ITA1
+INT1,05/12/2017,Benfica,Basel,0,2,A,PRT1,CHE1
+INT1,06/12/2017,Liverpool,Spartak Moscow,7,0,H,ENG1,RUS1
+INT1,06/12/2017,Tottenham,Apoel Nicosia,3,0,H,ENG1,CYP1
+INT1,06/12/2017,Real Madrid,Dortmund,3,2,H,ESP1,DEU1
+INT1,06/12/2017,NK Maribor,Sevilla,1,1,D,SVN1,ESP1
+INT1,06/12/2017,Shakhtar Donetsk,Man City,2,1,H,UKR1,ENG1
+INT1,06/12/2017,Porto,Monaco,5,2,H,PRT1,FRA1
+INT1,06/12/2017,Feyenoord,Napoli,2,1,H,NLD1,ITA1
+INT1,06/12/2017,RB Leipzig,Besiktas,1,2,A,DEU1,TUR1
+INT1,13/02/2018,Juventus,Tottenham,2,2,D,ITA1,ENG1
+INT1,13/02/2018,Basel,Man City,0,4,A,CHE1,ENG1
+INT1,14/02/2018,Real Madrid,Paris SG,3,1,H,ESP1,FRA1
+INT1,14/02/2018,Porto,Liverpool,0,5,A,PRT1,ENG1
+INT1,20/02/2018,Chelsea,Barcelona,1,1,D,ENG1,ESP1
+INT1,20/02/2018,Bayern Munich,Besiktas,5,0,H,DEU1,TUR1
+INT1,21/02/2018,Shakhtar Donetsk,Roma,2,1,H,UKR1,ITA1
+INT1,21/02/2018,Sevilla,Man United,0,0,D,ESP1,ENG1
+INT1,06/03/2018,Liverpool,Porto,0,0,D,ENG1,PRT1
+INT1,06/03/2018,Paris SG,Real Madrid,1,2,A,FRA1,ESP1
+INT1,07/03/2018,Tottenham,Juventus,1,2,A,ENG1,ITA1
+INT1,07/03/2018,Man City,Basel,1,2,A,ENG1,CHE1
+INT1,13/03/2018,Man United,Sevilla,1,2,A,ENG1,ESP1
+INT1,13/03/2018,Roma,Shakhtar Donetsk,1,0,H,ITA1,UKR1
+INT1,14/03/2018,Besiktas,Bayern Munich,1,3,A,TUR1,DEU1
+INT1,14/03/2018,Barcelona,Chelsea,3,0,H,ESP1,ENG1
+INT1,03/04/2018,Juventus,Real Madrid,0,3,A,ITA1,ESP1
+INT1,03/04/2018,Sevilla,Bayern Munich,1,2,A,ESP1,DEU1
+INT1,04/04/2018,Liverpool,Man City,3,0,H,ENG1,ENG1
+INT1,04/04/2018,Barcelona,Roma,4,1,H,ESP1,ITA1
+INT1,10/04/2018,Man City,Liverpool,1,2,A,ENG1,ENG1
+INT1,10/04/2018,Roma,Barcelona,3,0,H,ITA1,ESP1
+INT1,11/04/2018,Real Madrid,Juventus,1,3,A,ESP1,ITA1
+INT1,11/04/2018,Bayern Munich,Sevilla,0,0,D,DEU1,ESP1
+INT1,24/04/2018,Liverpool,Roma,5,2,H,ENG1,ITA1
+INT1,25/04/2018,Bayern Munich,Real Madrid,1,2,A,DEU1,ESP1
+INT1,01/05/2018,Real Madrid,Bayern Munich,2,2,D,ESP1,DEU1
+INT1,02/05/2018,Roma,Liverpool,4,2,H,ITA1,ENG1
+INT1,26/05/2018,Real Madrid,Liverpool,3,1,H,ESP1,ENG1
+INT1,18/09/2018,Inter,Tottenham,2,1,H,ITA1,ENG1
+INT1,18/09/2018,Barcelona,PSV Eindhoven,4,0,H,ESP1,NLD1
+INT1,18/09/2018,Club Brugge,Dortmund,0,1,A,BEL1,DEU1
+INT1,18/09/2018,Liverpool,Paris SG,3,2,H,ENG1,FRA1
+INT1,18/09/2018,Schalke 04,Porto,1,1,D,DEU1,PRT1
+INT1,18/09/2018,Galatasaray,Lokomotiv Moscow,3,0,H,TUR1,RUS1
+INT1,18/09/2018,Monaco,Ath Madrid,1,2,A,FRA1,ESP1
+INT1,18/09/2018,Red Star,Napoli,0,0,D,SRB1,ITA1
+INT1,19/09/2018,Ajax,AEK,3,0,H,NLD1,GRC1
+INT1,19/09/2018,Shakhtar Donetsk,Hoffenheim,2,2,D,UKR1,DEU1
+INT1,19/09/2018,Man City,Lyon,1,2,A,ENG1,FRA1
+INT1,19/09/2018,Real Madrid,Roma,3,0,H,ESP1,ITA1
+INT1,19/09/2018,Valencia,Juventus,0,2,A,ESP1,ITA1
+INT1,19/09/2018,Young Boys,Man United,0,3,A,CHE1,ENG1
+INT1,19/09/2018,Benfica,Bayern Munich,0,2,A,PRT1,DEU1
+INT1,19/09/2018,Viktoria Plzen,CSKA Moscow,2,2,D,CZE1,RUS1
+INT1,02/10/2018,Juventus,Young Boys,3,0,H,ITA1,CHE1
+INT1,02/10/2018,Hoffenheim,Man City,1,2,A,DEU1,ENG1
+INT1,02/10/2018,Man United,Valencia,0,0,D,ENG1,ESP1
+INT1,02/10/2018,Roma,Viktoria Plzen,5,0,H,ITA1,CZE1
+INT1,02/10/2018,Bayern Munich,Ajax,1,1,D,DEU1,NLD1
+INT1,02/10/2018,AEK,Benfica,2,3,A,GRC1,PRT1
+INT1,02/10/2018,CSKA Moscow,Real Madrid,1,0,H,RUS1,ESP1
+INT1,02/10/2018,Lyon,Shakhtar Donetsk,2,2,D,FRA1,UKR1
+INT1,03/10/2018,Lokomotiv Moscow,Schalke 04,0,1,A,RUS1,DEU1
+INT1,03/10/2018,Paris SG,Red Star,6,1,H,FRA1,SRB1
+INT1,03/10/2018,Tottenham,Barcelona,2,4,A,ENG1,ESP1
+INT1,03/10/2018,Napoli,Liverpool,1,0,H,ITA1,ENG1
+INT1,03/10/2018,Ath Madrid,Club Brugge,3,1,H,ESP1,BEL1
+INT1,03/10/2018,Dortmund,Monaco,3,0,H,DEU1,FRA1
+INT1,03/10/2018,Porto,Galatasaray,1,0,H,PRT1,TUR1
+INT1,03/10/2018,PSV Eindhoven,Inter,1,2,A,NLD1,ITA1
+INT1,23/10/2018,Young Boys,Valencia,1,1,D,CHE1,ESP1
+INT1,23/10/2018,AEK,Bayern Munich,0,2,A,GRC1,DEU1
+INT1,23/10/2018,Man United,Juventus,0,1,A,ENG1,ITA1
+INT1,23/10/2018,Ajax,Benfica,1,0,H,NLD1,PRT1
+INT1,23/10/2018,Roma,CSKA Moscow,3,0,H,ITA1,RUS1
+INT1,23/10/2018,Real Madrid,Viktoria Plzen,2,1,H,ESP1,CZE1
+INT1,23/10/2018,Shakhtar Donetsk,Man City,0,3,A,UKR1,ENG1
+INT1,23/10/2018,Hoffenheim,Lyon,3,3,D,DEU1,FRA1
+INT1,24/10/2018,Club Brugge,Monaco,1,1,D,BEL1,FRA1
+INT1,24/10/2018,PSV Eindhoven,Tottenham,2,2,D,NLD1,ENG1
+INT1,24/10/2018,Liverpool,Red Star,4,0,H,ENG1,SRB1
+INT1,24/10/2018,Barcelona,Inter,2,0,H,ESP1,ITA1
+INT1,24/10/2018,Dortmund,Ath Madrid,4,0,H,DEU1,ESP1
+INT1,24/10/2018,Galatasaray,Schalke 04,0,0,D,TUR1,DEU1
+INT1,24/10/2018,Lokomotiv Moscow,Porto,1,3,A,RUS1,PRT1
+INT1,24/10/2018,Paris SG,Napoli,2,2,D,FRA1,ITA1
+INT1,06/11/2018,Monaco,Club Brugge,0,4,A,FRA1,BEL1
+INT1,06/11/2018,Red Star,Liverpool,2,0,H,SRB1,ENG1
+INT1,06/11/2018,Tottenham,PSV Eindhoven,2,1,H,ENG1,NLD1
+INT1,06/11/2018,Inter,Barcelona,1,1,D,ITA1,ESP1
+INT1,06/11/2018,Napoli,Paris SG,1,1,D,ITA1,FRA1
+INT1,06/11/2018,Ath Madrid,Dortmund,2,0,H,ESP1,DEU1
+INT1,06/11/2018,Schalke 04,Galatasaray,2,0,H,DEU1,TUR1
+INT1,06/11/2018,Porto,Lokomotiv Moscow,4,1,H,PRT1,RUS1
+INT1,07/11/2018,Man City,Shakhtar Donetsk,6,0,H,ENG1,UKR1
+INT1,07/11/2018,Juventus,Man United,1,2,A,ITA1,ENG1
+INT1,07/11/2018,Bayern Munich,AEK,2,0,H,DEU1,GRC1
+INT1,07/11/2018,Benfica,Ajax,1,1,D,PRT1,NLD1
+INT1,07/11/2018,Lyon,Hoffenheim,2,2,D,FRA1,DEU1
+INT1,07/11/2018,Viktoria Plzen,Real Madrid,0,5,A,CZE1,ESP1
+INT1,08/11/2018,Valencia,Young Boys,3,1,H,ESP1,CHE1
+INT1,08/11/2018,CSKA Moscow,Roma,1,2,A,RUS1,ITA1
+INT1,27/11/2018,AEK,Ajax,0,2,A,GRC1,NLD1
+INT1,27/11/2018,CSKA Moscow,Viktoria Plzen,1,2,A,RUS1,CZE1
+INT1,27/11/2018,Man United,Young Boys,1,0,H,ENG1,CHE1
+INT1,27/11/2018,Roma,Real Madrid,0,2,A,ITA1,ESP1
+INT1,27/11/2018,Juventus,Valencia,1,0,H,ITA1,ESP1
+INT1,27/11/2018,Bayern Munich,Benfica,5,1,H,DEU1,PRT1
+INT1,27/11/2018,Lyon,Man City,2,2,D,FRA1,ENG1
+INT1,27/11/2018,Hoffenheim,Shakhtar Donetsk,2,3,A,DEU1,UKR1
+INT1,28/11/2018,Ath Madrid,Monaco,2,0,H,ESP1,FRA1
+INT1,28/11/2018,Lokomotiv Moscow,Galatasaray,2,0,H,RUS1,TUR1
+INT1,28/11/2018,Tottenham,Inter,1,0,H,ENG1,ITA1
+INT1,28/11/2018,Napoli,Red Star,3,1,H,ITA1,SRB1
+INT1,28/11/2018,Dortmund,Club Brugge,0,0,D,DEU1,BEL1
+INT1,28/11/2018,Porto,Schalke 04,3,1,H,PRT1,DEU1
+INT1,28/11/2018,Paris SG,Liverpool,2,1,H,FRA1,ENG1
+INT1,28/11/2018,PSV Eindhoven,Barcelona,1,2,A,NLD1,ESP1
+INT1,11/12/2018,Schalke 04,Lokomotiv Moscow,1,0,H,DEU1,RUS1
+INT1,11/12/2018,Galatasaray,Porto,2,3,A,TUR1,PRT1
+INT1,11/12/2018,Club Brugge,Ath Madrid,0,0,D,BEL1,ESP1
+INT1,11/12/2018,Liverpool,Napoli,1,0,H,ENG1,ITA1
+INT1,11/12/2018,Inter,PSV Eindhoven,1,1,D,ITA1,NLD1
+INT1,11/12/2018,Barcelona,Tottenham,1,1,D,ESP1,ENG1
+INT1,11/12/2018,Monaco,Dortmund,0,2,A,FRA1,DEU1
+INT1,11/12/2018,Red Star,Paris SG,1,4,A,SRB1,FRA1
+INT1,12/12/2018,Real Madrid,CSKA Moscow,0,3,A,ESP1,RUS1
+INT1,12/12/2018,Viktoria Plzen,Roma,2,1,H,CZE1,ITA1
+INT1,12/12/2018,Man City,Hoffenheim,2,1,H,ENG1,DEU1
+INT1,12/12/2018,Ajax,Bayern Munich,3,3,D,NLD1,DEU1
+INT1,12/12/2018,Valencia,Man United,2,1,H,ESP1,ENG1
+INT1,12/12/2018,Young Boys,Juventus,2,1,H,CHE1,ITA1
+INT1,12/12/2018,Shakhtar Donetsk,Lyon,1,1,D,UKR1,FRA1
+INT1,12/12/2018,Benfica,AEK,1,0,H,PRT1,GRC1
+INT1,12/02/2019,Man United,Paris SG,0,2,A,ENG1,FRA1
+INT1,12/02/2019,Roma,Porto,2,1,H,ITA1,PRT1
+INT1,13/02/2019,Tottenham,Dortmund,3,0,H,ENG1,DEU1
+INT1,13/02/2019,Ajax,Real Madrid,1,2,A,NLD1,ESP1
+INT1,19/02/2019,Liverpool,Bayern Munich,0,0,D,ENG1,DEU1
+INT1,19/02/2019,Lyon,Barcelona,0,0,D,FRA1,ESP1
+INT1,20/02/2019,Ath Madrid,Juventus,2,0,H,ESP1,ITA1
+INT1,20/02/2019,Schalke 04,Man City,2,3,A,DEU1,ENG1
+INT1,05/03/2019,Real Madrid,Ajax,1,4,A,ESP1,NLD1
+INT1,05/03/2019,Dortmund,Tottenham,0,1,A,DEU1,ENG1
+INT1,06/03/2019,Porto,Roma,3,1,H,PRT1,ITA1
+INT1,06/03/2019,Paris SG,Man United,1,3,A,FRA1,ENG1
+INT1,12/03/2019,Man City,Schalke 04,7,0,H,ENG1,DEU1
+INT1,12/03/2019,Juventus,Ath Madrid,3,0,H,ITA1,ESP1
+INT1,13/03/2019,Barcelona,Lyon,5,1,H,ESP1,FRA1
+INT1,13/03/2019,Bayern Munich,Liverpool,1,3,A,DEU1,ENG1
+INT1,09/04/2019,Liverpool,Porto,2,0,H,ENG1,PRT1
+INT1,09/04/2019,Tottenham,Man City,1,0,H,ENG1,ENG1
+INT1,10/04/2019,Man United,Barcelona,0,1,A,ENG1,ESP1
+INT1,10/04/2019,Ajax,Juventus,1,1,D,NLD1,ITA1
+INT1,16/04/2019,Juventus,Ajax,1,2,A,ITA1,NLD1
+INT1,16/04/2019,Barcelona,Man United,3,0,H,ESP1,ENG1
+INT1,17/04/2019,Man City,Tottenham,4,3,H,ENG1,ENG1
+INT1,17/04/2019,Porto,Liverpool,1,4,A,PRT1,ENG1
+INT1,30/04/2019,Tottenham,Ajax,0,1,A,ENG1,NLD1
+INT1,01/05/2019,Barcelona,Liverpool,3,0,H,ESP1,ENG1
+INT1,07/05/2019,Liverpool,Barcelona,4,0,H,ENG1,ESP1
+INT1,08/05/2019,Ajax,Tottenham,2,3,A,NLD1,ENG1
+INT1,01/06/2019,Tottenham,Liverpool,0,2,A,ENG1,ENG1
+INT1,17/09/2019,Inter,Slavia Prague,1,1,D,ITA1,CZE1
+INT1,17/09/2019,Lyon,Zenit St Petersburg,1,1,D,FRA1,RUS1
+INT1,17/09/2019,Chelsea,Valencia,0,1,A,ENG1,ESP1
+INT1,17/09/2019,RB Salzburg,Genk,6,2,H,AUT1,BEL1
+INT1,17/09/2019,Ajax,Lille,3,0,H,NLD1,FRA1
+INT1,17/09/2019,Napoli,Liverpool,2,0,H,ITA1,ENG1
+INT1,17/09/2019,Dortmund,Barcelona,0,0,D,DEU1,ESP1
+INT1,17/09/2019,Benfica,RB Leipzig,1,2,A,PRT1,DEU1
+INT1,18/09/2019,Club Brugge,Galatasaray,0,0,D,BEL1,TUR1
+INT1,18/09/2019,Olympiakos,Tottenham,2,2,D,GRC1,ENG1
+INT1,18/09/2019,Dinamo Zagreb,Atalanta,4,0,H,HRV1,ITA1
+INT1,18/09/2019,Ath Madrid,Juventus,2,2,D,ESP1,ITA1
+INT1,18/09/2019,Leverkusen,Lokomotiv Moscow,1,2,A,DEU1,RUS1
+INT1,18/09/2019,Bayern Munich,Red Star,3,0,H,DEU1,SRB1
+INT1,18/09/2019,Shakhtar Donetsk,Man City,0,3,A,UKR1,ENG1
+INT1,18/09/2019,Paris SG,Real Madrid,3,0,H,FRA1,ESP1
+INT1,01/10/2019,Atalanta,Shakhtar Donetsk,1,2,A,ITA1,UKR1
+INT1,01/10/2019,Real Madrid,Club Brugge,2,2,D,ESP1,BEL1
+INT1,01/10/2019,Tottenham,Bayern Munich,2,7,A,ENG1,DEU1
+INT1,01/10/2019,Man City,Dinamo Zagreb,2,0,H,ENG1,HRV1
+INT1,01/10/2019,Juventus,Leverkusen,3,0,H,ITA1,DEU1
+INT1,01/10/2019,Galatasaray,Paris SG,0,1,A,TUR1,FRA1
+INT1,01/10/2019,Lokomotiv Moscow,Ath Madrid,0,2,A,RUS1,ESP1
+INT1,01/10/2019,Red Star,Olympiakos,3,1,H,SRB1,GRC1
+INT1,02/10/2019,Genk,Napoli,0,0,D,BEL1,ITA1
+INT1,02/10/2019,Slavia Prague,Dortmund,0,2,A,CZE1,DEU1
+INT1,02/10/2019,Liverpool,RB Salzburg,4,3,H,ENG1,AUT1
+INT1,02/10/2019,Barcelona,Inter,2,1,H,ESP1,ITA1
+INT1,02/10/2019,Valencia,Ajax,0,3,A,ESP1,NLD1
+INT1,02/10/2019,Zenit St Petersburg,Benfica,3,1,H,RUS1,PRT1
+INT1,02/10/2019,Lille,Chelsea,1,2,A,FRA1,ENG1
+INT1,02/10/2019,RB Leipzig,Lyon,0,2,A,DEU1,FRA1
+INT1,22/10/2019,Ath Madrid,Leverkusen,1,0,H,ESP1,DEU1
+INT1,22/10/2019,Shakhtar Donetsk,Dinamo Zagreb,2,2,D,UKR1,HRV1
+INT1,22/10/2019,Club Brugge,Paris SG,0,5,A,BEL1,FRA1
+INT1,22/10/2019,Tottenham,Red Star,5,0,H,ENG1,SRB1
+INT1,22/10/2019,Man City,Atalanta,5,1,H,ENG1,ITA1
+INT1,22/10/2019,Juventus,Lokomotiv Moscow,2,1,H,ITA1,RUS1
+INT1,22/10/2019,Galatasaray,Real Madrid,0,1,A,TUR1,ESP1
+INT1,22/10/2019,Olympiakos,Bayern Munich,2,3,A,GRC1,DEU1
+INT1,23/10/2019,Ajax,Chelsea,0,1,A,NLD1,ENG1
+INT1,23/10/2019,RB Leipzig,Zenit St Petersburg,2,1,H,DEU1,RUS1
+INT1,23/10/2019,Genk,Liverpool,1,4,A,BEL1,ENG1
+INT1,23/10/2019,RB Salzburg,Napoli,2,3,A,AUT1,ITA1
+INT1,23/10/2019,Inter,Dortmund,2,0,H,ITA1,DEU1
+INT1,23/10/2019,Benfica,Lyon,2,1,H,PRT1,FRA1
+INT1,23/10/2019,Lille,Valencia,1,1,D,FRA1,ESP1
+INT1,23/10/2019,Slavia Prague,Barcelona,1,2,A,CZE1,ESP1
+INT1,05/11/2019,Barcelona,Slavia Prague,0,0,D,ESP1,CZE1
+INT1,05/11/2019,Zenit St Petersburg,RB Leipzig,0,2,A,RUS1,DEU1
+INT1,05/11/2019,Chelsea,Ajax,4,4,D,ENG1,NLD1
+INT1,05/11/2019,Liverpool,Genk,2,1,H,ENG1,BEL1
+INT1,05/11/2019,Napoli,RB Salzburg,1,1,D,ITA1,AUT1
+INT1,05/11/2019,Valencia,Lille,4,1,H,ESP1,FRA1
+INT1,05/11/2019,Dortmund,Inter,3,2,H,DEU1,ITA1
+INT1,05/11/2019,Lyon,Benfica,3,1,H,FRA1,PRT1
+INT1,06/11/2019,Bayern Munich,Olympiakos,2,0,H,DEU1,GRC1
+INT1,06/11/2019,Lokomotiv Moscow,Juventus,1,2,A,RUS1,ITA1
+INT1,06/11/2019,Dinamo Zagreb,Shakhtar Donetsk,3,3,D,HRV1,UKR1
+INT1,06/11/2019,Atalanta,Man City,1,1,D,ITA1,ENG1
+INT1,06/11/2019,Real Madrid,Galatasaray,6,0,H,ESP1,TUR1
+INT1,06/11/2019,Leverkusen,Ath Madrid,2,1,H,DEU1,ESP1
+INT1,06/11/2019,Paris SG,Club Brugge,1,0,H,FRA1,BEL1
+INT1,06/11/2019,Red Star,Tottenham,0,4,A,SRB1,ENG1
+INT1,26/11/2019,Galatasaray,Club Brugge,1,1,D,TUR1,BEL1
+INT1,26/11/2019,Lokomotiv Moscow,Leverkusen,0,2,A,RUS1,DEU1
+INT1,26/11/2019,Tottenham,Olympiakos,4,2,H,ENG1,GRC1
+INT1,26/11/2019,Man City,Shakhtar Donetsk,1,1,D,ENG1,UKR1
+INT1,26/11/2019,Atalanta,Dinamo Zagreb,2,0,H,ITA1,HRV1
+INT1,26/11/2019,Juventus,Ath Madrid,1,0,H,ITA1,ESP1
+INT1,26/11/2019,Real Madrid,Paris SG,2,2,D,ESP1,FRA1
+INT1,26/11/2019,Red Star,Bayern Munich,0,6,A,SRB1,DEU1
+INT1,27/11/2019,Valencia,Chelsea,2,2,D,ESP1,ENG1
+INT1,27/11/2019,Zenit St Petersburg,Lyon,2,0,H,RUS1,FRA1
+INT1,27/11/2019,Genk,RB Salzburg,1,4,A,BEL1,AUT1
+INT1,27/11/2019,Liverpool,Napoli,1,1,D,ENG1,ITA1
+INT1,27/11/2019,Barcelona,Dortmund,3,1,H,ESP1,DEU1
+INT1,27/11/2019,Lille,Ajax,0,2,A,FRA1,NLD1
+INT1,27/11/2019,Slavia Prague,Inter,1,3,A,CZE1,ITA1
+INT1,27/11/2019,RB Leipzig,Benfica,2,2,D,DEU1,PRT1
+INT1,10/12/2019,RB Salzburg,Liverpool,0,2,A,AUT1,ENG1
+INT1,10/12/2019,Napoli,Genk,4,0,H,ITA1,BEL1
+INT1,10/12/2019,Chelsea,Lille,2,1,H,ENG1,FRA1
+INT1,10/12/2019,Ajax,Valencia,0,1,A,NLD1,ESP1
+INT1,10/12/2019,Inter,Barcelona,1,2,A,ITA1,ESP1
+INT1,10/12/2019,Dortmund,Slavia Prague,2,1,H,DEU1,CZE1
+INT1,10/12/2019,Benfica,Zenit St Petersburg,3,0,H,PRT1,RUS1
+INT1,10/12/2019,Lyon,RB Leipzig,2,2,D,FRA1,DEU1
+INT1,11/12/2019,Dinamo Zagreb,Man City,1,4,A,HRV1,ENG1
+INT1,11/12/2019,Shakhtar Donetsk,Atalanta,0,3,A,UKR1,ITA1
+INT1,11/12/2019,Club Brugge,Real Madrid,1,3,A,BEL1,ESP1
+INT1,11/12/2019,Ath Madrid,Lokomotiv Moscow,2,0,H,ESP1,RUS1
+INT1,11/12/2019,Leverkusen,Juventus,0,2,A,DEU1,ITA1
+INT1,11/12/2019,Bayern Munich,Tottenham,3,1,H,DEU1,ENG1
+INT1,11/12/2019,Olympiakos,Red Star,1,0,H,GRC1,SRB1
+INT1,11/12/2019,Paris SG,Galatasaray,5,0,H,FRA1,TUR1
+INT1,18/02/2020,Ath Madrid,Liverpool,1,0,H,ESP1,ENG1
+INT1,18/02/2020,Dortmund,Paris SG,2,1,H,DEU1,FRA1
+INT1,19/02/2020,Tottenham,RB Leipzig,0,1,A,ENG1,DEU1
+INT1,19/02/2020,Atalanta,Valencia,4,1,H,ITA1,ESP1
+INT1,25/02/2020,Chelsea,Bayern Munich,0,3,A,ENG1,DEU1
+INT1,25/02/2020,Napoli,Barcelona,1,1,D,ITA1,ESP1
+INT1,26/02/2020,Real Madrid,Man City,1,2,A,ESP1,ENG1
+INT1,26/02/2020,Lyon,Juventus,1,0,H,FRA1,ITA1
+INT1,10/03/2020,Valencia,Atalanta,3,4,A,ESP1,ITA1
+INT1,10/03/2020,RB Leipzig,Tottenham,3,0,H,DEU1,ENG1
+INT1,11/03/2020,Liverpool,Ath Madrid,2,3,A,ENG1,ESP1
+INT1,11/03/2020,Paris SG,Dortmund,2,0,H,FRA1,DEU1
+INT1,07/08/2020,Man City,Real Madrid,2,1,H,ENG1,ESP1
+INT1,07/08/2020,Juventus,Lyon,2,1,H,ITA1,FRA1
+INT1,08/08/2020,Barcelona,Napoli,3,1,H,ESP1,ITA1
+INT1,08/08/2020,Bayern Munich,Chelsea,4,1,H,DEU1,ENG1
+INT1,12/08/2020,Atalanta,Paris SG,1,2,A,ITA1,FRA1
+INT1,13/08/2020,RB Leipzig,Ath Madrid,2,1,H,DEU1,ESP1
+INT1,14/08/2020,Barcelona,Bayern Munich,2,8,A,ESP1,DEU1
+INT1,15/08/2020,Man City,Lyon,1,3,A,ENG1,FRA1
+INT1,18/08/2020,RB Leipzig,Paris SG,0,3,A,DEU1,FRA1
+INT1,19/08/2020,Lyon,Bayern Munich,0,3,A,FRA1,DEU1
+INT1,23/08/2020,Paris SG,Bayern Munich,0,1,A,FRA1,DEU1
+INT1,20/10/2020,Dynamo Kiev,Juventus,0,2,A,UKR1,ITA1
+INT1,20/10/2020,Zenit St Petersburg,Club Brugge,1,2,A,RUS1,BEL1
+INT1,20/10/2020,Chelsea,Sevilla,0,0,D,ENG1,ESP1
+INT1,20/10/2020,Lazio,Dortmund,3,1,H,ITA1,DEU1
+INT1,20/10/2020,Barcelona,Feirense,5,1,H,ESP1,PRT1
+INT1,20/10/2020,Paris SG,Man United,1,2,A,FRA1,ENG1
+INT1,20/10/2020,Rennes,FC Krasnodar,1,1,D,FRA1,RUS1
+INT1,20/10/2020,RB Leipzig,Buyuksehyr,2,0,H,DEU1,TUR1
+INT1,21/10/2020,RB Salzburg,Lokomotiv Moscow,2,2,D,AUT1,RUS1
+INT1,21/10/2020,Real Madrid,Shakhtar Donetsk,2,3,A,ESP1,UKR1
+INT1,21/10/2020,FC Midtjylland,Atalanta,0,4,A,DNK1,ITA1
+INT1,21/10/2020,Man City,Porto,3,1,H,ENG1,PRT1
+INT1,21/10/2020,Ajax,Liverpool,0,1,A,NLD1,ENG1
+INT1,21/10/2020,Inter,M'gladbach,2,2,D,ITA1,DEU1
+INT1,21/10/2020,Bayern Munich,Ath Madrid,4,0,H,DEU1,ESP1
+INT1,21/10/2020,Olympiakos,Marseille,1,0,H,GRC1,FRA1
+INT1,27/10/2020,Shakhtar Donetsk,Inter,0,0,D,UKR1,ITA1
+INT1,27/10/2020,Lokomotiv Moscow,Bayern Munich,1,2,A,RUS1,DEU1
+INT1,27/10/2020,Liverpool,FC Midtjylland,2,0,H,ENG1,DNK1
+INT1,27/10/2020,Atalanta,Ajax,2,2,D,ITA1,NLD1
+INT1,27/10/2020,Ath Madrid,RB Salzburg,3,2,H,ESP1,AUT1
+INT1,27/10/2020,M'gladbach,Real Madrid,2,2,D,DEU1,ESP1
+INT1,27/10/2020,Porto,Olympiakos,2,0,H,PRT1,GRC1
+INT1,27/10/2020,Marseille,Man City,0,3,A,FRA1,ENG1
+INT1,28/10/2020,Buyuksehyr,Paris SG,0,2,A,TUR1,FRA1
+INT1,28/10/2020,FC Krasnodar,Chelsea,0,4,A,RUS1,ENG1
+INT1,28/10/2020,Club Brugge,Lazio,1,1,D,BEL1,ITA1
+INT1,28/10/2020,Man United,RB Leipzig,5,0,H,ENG1,DEU1
+INT1,28/10/2020,Juventus,Barcelona,0,2,A,ITA1,ESP1
+INT1,28/10/2020,Dortmund,Zenit St Petersburg,2,0,H,DEU1,RUS1
+INT1,28/10/2020,Feirense,Dynamo Kiev,2,2,D,PRT1,UKR1
+INT1,28/10/2020,Sevilla,Rennes,1,0,H,ESP1,FRA1
+INT1,03/11/2020,Shakhtar Donetsk,M'gladbach,0,6,A,UKR1,DEU1
+INT1,03/11/2020,Lokomotiv Moscow,Ath Madrid,1,1,D,RUS1,ESP1
+INT1,03/11/2020,FC Midtjylland,Ajax,1,2,A,DNK1,NLD1
+INT1,03/11/2020,Man City,Olympiakos,3,0,H,ENG1,GRC1
+INT1,03/11/2020,RB Salzburg,Bayern Munich,2,6,A,AUT1,DEU1
+INT1,03/11/2020,Atalanta,Liverpool,0,5,A,ITA1,ENG1
+INT1,03/11/2020,Real Madrid,Inter,3,2,H,ESP1,ITA1
+INT1,03/11/2020,Porto,Marseille,3,0,H,PRT1,FRA1
+INT1,04/11/2020,Buyuksehyr,Man United,2,1,H,TUR1,ENG1
+INT1,04/11/2020,Zenit St Petersburg,Lazio,1,1,D,RUS1,ITA1
+INT1,04/11/2020,Club Brugge,Dortmund,0,3,A,BEL1,DEU1
+INT1,04/11/2020,Chelsea,Rennes,3,0,H,ENG1,FRA1
+INT1,04/11/2020,Barcelona,Dynamo Kiev,2,1,H,ESP1,UKR1
+INT1,04/11/2020,Feirense,Juventus,1,4,A,PRT1,ITA1
+INT1,04/11/2020,RB Leipzig,Paris SG,2,1,H,DEU1,FRA1
+INT1,04/11/2020,Sevilla,FC Krasnodar,3,2,H,ESP1,RUS1
+INT1,24/11/2020,Rennes,Chelsea,1,2,A,FRA1,ENG1
+INT1,24/11/2020,FC Krasnodar,Sevilla,1,2,A,RUS1,ESP1
+INT1,24/11/2020,Man United,Buyuksehyr,4,1,H,ENG1,TUR1
+INT1,24/11/2020,Lazio,Zenit St Petersburg,3,1,H,ITA1,RUS1
+INT1,24/11/2020,Juventus,Feirense,2,1,H,ITA1,PRT1
+INT1,24/11/2020,Dortmund,Club Brugge,3,0,H,DEU1,BEL1
+INT1,24/11/2020,Dynamo Kiev,Barcelona,0,4,A,UKR1,ESP1
+INT1,24/11/2020,Paris SG,RB Leipzig,1,0,H,FRA1,DEU1
+INT1,25/11/2020,M'gladbach,Shakhtar Donetsk,4,0,H,DEU1,UKR1
+INT1,25/11/2020,Olympiakos,Man City,0,1,A,GRC1,ENG1
+INT1,25/11/2020,Liverpool,Atalanta,0,2,A,ENG1,ITA1
+INT1,25/11/2020,Ajax,FC Midtjylland,3,1,H,NLD1,DNK1
+INT1,25/11/2020,Inter,Real Madrid,0,2,A,ITA1,ESP1
+INT1,25/11/2020,Ath Madrid,Lokomotiv Moscow,0,0,D,ESP1,RUS1
+INT1,25/11/2020,Bayern Munich,RB Salzburg,3,1,H,DEU1,AUT1
+INT1,25/11/2020,Marseille,Porto,0,2,A,FRA1,PRT1
+INT1,01/12/2020,Shakhtar Donetsk,Real Madrid,2,0,H,UKR1,ESP1
+INT1,01/12/2020,Lokomotiv Moscow,RB Salzburg,1,3,A,RUS1,AUT1
+INT1,01/12/2020,Liverpool,Ajax,1,0,H,ENG1,NLD1
+INT1,01/12/2020,Atalanta,FC Midtjylland,1,1,D,ITA1,DNK1
+INT1,01/12/2020,Ath Madrid,Bayern Munich,1,1,D,ESP1,DEU1
+INT1,01/12/2020,M'gladbach,Inter,2,3,A,DEU1,ITA1
+INT1,01/12/2020,Porto,Man City,0,0,D,PRT1,ENG1
+INT1,01/12/2020,Marseille,Olympiakos,2,1,H,FRA1,GRC1
+INT1,02/12/2020,Buyuksehyr,RB Leipzig,3,4,A,TUR1,DEU1
+INT1,02/12/2020,FC Krasnodar,Rennes,1,0,H,RUS1,FRA1
+INT1,02/12/2020,Club Brugge,Zenit St Petersburg,3,0,H,BEL1,RUS1
+INT1,02/12/2020,Man United,Paris SG,1,3,A,ENG1,FRA1
+INT1,02/12/2020,Juventus,Dynamo Kiev,3,0,H,ITA1,UKR1
+INT1,02/12/2020,Dortmund,Lazio,1,1,D,DEU1,ITA1
+INT1,02/12/2020,Feirense,Barcelona,0,3,A,PRT1,ESP1
+INT1,02/12/2020,Sevilla,Chelsea,0,4,A,ESP1,ENG1
+INT1,08/12/2020,Lazio,Club Brugge,2,2,D,ITA1,BEL1
+INT1,08/12/2020,Zenit St Petersburg,Dortmund,1,2,A,RUS1,DEU1
+INT1,08/12/2020,Chelsea,FC Krasnodar,1,1,D,ENG1,RUS1
+INT1,08/12/2020,Barcelona,Juventus,0,3,A,ESP1,ITA1
+INT1,08/12/2020,Dynamo Kiev,Feirense,1,0,H,UKR1,PRT1
+INT1,08/12/2020,Paris SG,Buyuksehyr,5,1,H,FRA1,TUR1
+INT1,08/12/2020,Rennes,Sevilla,1,3,A,FRA1,ESP1
+INT1,08/12/2020,RB Leipzig,Man United,3,2,H,DEU1,ENG1
+INT1,09/12/2020,FC Midtjylland,Liverpool,1,1,D,DNK1,ENG1
+INT1,09/12/2020,Ajax,Atalanta,0,1,A,NLD1,ITA1
+INT1,09/12/2020,Man City,Marseille,3,0,H,ENG1,FRA1
+INT1,09/12/2020,RB Salzburg,Ath Madrid,0,2,A,AUT1,ESP1
+INT1,09/12/2020,Inter,Shakhtar Donetsk,0,0,D,ITA1,UKR1
+INT1,09/12/2020,Real Madrid,M'gladbach,2,0,H,ESP1,DEU1
+INT1,09/12/2020,Bayern Munich,Lokomotiv Moscow,2,0,H,DEU1,RUS1
+INT1,09/12/2020,Olympiakos,Porto,0,2,A,GRC1,PRT1
+INT1,16/02/2021,Barcelona,Paris SG,1,4,A,ESP1,FRA1
+INT1,16/02/2021,RB Leipzig,Liverpool,0,2,A,DEU1,ENG1
+INT1,17/02/2021,Porto,Juventus,2,1,H,PRT1,ITA1
+INT1,17/02/2021,Sevilla,Dortmund,2,3,A,ESP1,DEU1
+INT1,23/02/2021,Lazio,Bayern Munich,1,4,A,ITA1,DEU1
+INT1,23/02/2021,Ath Madrid,Chelsea,0,1,A,ESP1,ENG1
+INT1,24/02/2021,Atalanta,Real Madrid,0,1,A,ITA1,ESP1
+INT1,24/02/2021,M'gladbach,Man City,0,2,A,DEU1,ENG1
+INT1,09/03/2021,Juventus,Porto,3,2,H,ITA1,PRT1
+INT1,09/03/2021,Dortmund,Sevilla,2,2,D,DEU1,ESP1
+INT1,10/03/2021,Liverpool,RB Leipzig,2,0,H,ENG1,DEU1
+INT1,10/03/2021,Paris SG,Barcelona,1,1,D,FRA1,ESP1
+INT1,16/03/2021,Man City,M'gladbach,2,0,H,ENG1,DEU1
+INT1,16/03/2021,Real Madrid,Atalanta,3,1,H,ESP1,ITA1
+INT1,17/03/2021,Chelsea,Ath Madrid,2,0,H,ENG1,ESP1
+INT1,17/03/2021,Bayern Munich,Lazio,2,1,H,DEU1,ITA1
+INT1,06/04/2021,Man City,Dortmund,2,1,H,ENG1,DEU1
+INT1,06/04/2021,Real Madrid,Liverpool,3,1,H,ESP1,ENG1
+INT1,07/04/2021,Bayern Munich,Paris SG,2,3,A,DEU1,FRA1
+INT1,07/04/2021,Porto,Chelsea,0,2,A,PRT1,ENG1
+INT1,13/04/2021,Chelsea,Porto,0,1,A,ENG1,PRT1
+INT1,13/04/2021,Paris SG,Bayern Munich,0,1,A,FRA1,DEU1
+INT1,14/04/2021,Liverpool,Real Madrid,0,0,D,ENG1,ESP1
+INT1,14/04/2021,Dortmund,Man City,1,2,A,DEU1,ENG1
+INT1,27/04/2021,Real Madrid,Chelsea,1,1,D,ESP1,ENG1
+INT1,28/04/2021,Paris SG,Man City,1,2,A,FRA1,ENG1
+INT1,04/05/2021,Man City,Paris SG,2,0,H,ENG1,FRA1
+INT1,05/05/2021,Chelsea,Real Madrid,2,0,H,ENG1,ESP1
+INT1,29/05/2021,Man City,Chelsea,0,1,A,ENG1,ENG1
+INT1,14/09/2021,Young Boys,Man United,2,1,H,CHE1,ENG1
+INT1,14/09/2021,Sevilla,RB Salzburg,1,1,D,ESP1,AUT1
+INT1,14/09/2021,Chelsea,Zenit St Petersburg,1,0,H,ENG1,RUS1
+INT1,14/09/2021,Barcelona,Bayern Munich,0,3,A,ESP1,DEU1
+INT1,14/09/2021,Villarreal,Atalanta,2,2,D,ESP1,ITA1
+INT1,14/09/2021,Malmo FF,Juventus,0,3,A,SWE1,ITA1
+INT1,14/09/2021,Dynamo Kiev,Benfica,0,0,D,UKR1,PRT1
+INT1,14/09/2021,Lille,Wolfsburg,0,0,D,FRA1,DEU1
+INT1,15/09/2021,Besiktas,Dortmund,1,2,A,TUR1,DEU1
+INT1,15/09/2021,FC Sheriff Tiraspol,Shakhtar Donetsk,2,0,H,MDA1,UKR1
+INT1,15/09/2021,Club Brugge,Paris SG,1,1,D,BEL1,FRA1
+INT1,15/09/2021,Liverpool,Milan,3,2,H,ENG1,ITA1
+INT1,15/09/2021,Man City,RB Leipzig,6,3,H,ENG1,DEU1
+INT1,15/09/2021,Inter,Real Madrid,0,1,A,ITA1,ESP1
+INT1,15/09/2021,Ath Madrid,Porto,0,0,D,ESP1,PRT1
+INT1,15/09/2021,Sp Lisbon,Ajax,1,5,A,PRT1,NLD1
+INT1,28/09/2021,Ajax,Besiktas,2,0,H,NLD1,TUR1
+INT1,28/09/2021,Shakhtar Donetsk,Inter,0,0,D,UKR1,ITA1
+INT1,28/09/2021,Milan,Ath Madrid,1,2,A,ITA1,ESP1
+INT1,28/09/2021,Real Madrid,FC Sheriff Tiraspol,1,2,A,ESP1,MDA1
+INT1,28/09/2021,Dortmund,Sp Lisbon,1,0,H,DEU1,PRT1
+INT1,28/09/2021,Porto,Liverpool,1,5,A,PRT1,ENG1
+INT1,28/09/2021,Paris SG,Man City,2,0,H,FRA1,ENG1
+INT1,28/09/2021,RB Leipzig,Club Brugge,1,2,A,DEU1,BEL1
+INT1,29/09/2021,Atalanta,Young Boys,1,0,H,ITA1,CHE1
+INT1,29/09/2021,Zenit St Petersburg,Malmo FF,4,0,H,RUS1,SWE1
+INT1,29/09/2021,Man United,Villarreal,2,1,H,ENG1,ESP1
+INT1,29/09/2021,RB Salzburg,Lille,2,1,H,AUT1,FRA1
+INT1,29/09/2021,Juventus,Chelsea,1,0,H,ITA1,ENG1
+INT1,29/09/2021,Wolfsburg,Sevilla,1,1,D,DEU1,ESP1
+INT1,29/09/2021,Bayern Munich,Dynamo Kiev,5,0,H,DEU1,UKR1
+INT1,29/09/2021,Benfica,Barcelona,3,0,H,PRT1,ESP1
+INT1,19/10/2021,Club Brugge,Man City,1,5,A,BEL1,ENG1
+INT1,19/10/2021,Besiktas,Sp Lisbon,1,4,A,TUR1,PRT1
+INT1,19/10/2021,Ajax,Dortmund,4,0,H,NLD1,DEU1
+INT1,19/10/2021,Inter,FC Sheriff Tiraspol,3,1,H,ITA1,MDA1
+INT1,19/10/2021,Ath Madrid,Liverpool,2,3,A,ESP1,ENG1
+INT1,19/10/2021,Shakhtar Donetsk,Real Madrid,0,5,A,UKR1,ESP1
+INT1,19/10/2021,Porto,Milan,1,0,H,PRT1,ITA1
+INT1,19/10/2021,Paris SG,RB Leipzig,3,2,H,FRA1,DEU1
+INT1,20/10/2021,RB Salzburg,Wolfsburg,3,1,H,AUT1,DEU1
+INT1,20/10/2021,Barcelona,Dynamo Kiev,1,0,H,ESP1,UKR1
+INT1,20/10/2021,Chelsea,Malmo FF,4,0,H,ENG1,SWE1
+INT1,20/10/2021,Man United,Atalanta,3,2,H,ENG1,ITA1
+INT1,20/10/2021,Young Boys,Villarreal,1,4,A,CHE1,ESP1
+INT1,20/10/2021,Benfica,Bayern Munich,0,4,A,PRT1,DEU1
+INT1,20/10/2021,Zenit St Petersburg,Juventus,0,1,A,RUS1,ITA1
+INT1,20/10/2021,Lille,Sevilla,0,0,D,FRA1,ESP1
+INT1,02/11/2021,Wolfsburg,RB Salzburg,2,1,H,DEU1,AUT1
+INT1,02/11/2021,Malmo FF,Chelsea,0,1,A,SWE1,ENG1
+INT1,02/11/2021,Atalanta,Man United,2,2,D,ITA1,ENG1
+INT1,02/11/2021,Juventus,Zenit St Petersburg,4,2,H,ITA1,RUS1
+INT1,02/11/2021,Villarreal,Young Boys,2,0,H,ESP1,CHE1
+INT1,02/11/2021,Bayern Munich,Benfica,5,2,H,DEU1,PRT1
+INT1,02/11/2021,Dynamo Kiev,Barcelona,0,1,A,UKR1,ESP1
+INT1,02/11/2021,Sevilla,Lille,1,2,A,ESP1,FRA1
+INT1,03/11/2021,Milan,Porto,1,1,D,ITA1,PRT1
+INT1,03/11/2021,Real Madrid,Shakhtar Donetsk,2,1,H,ESP1,UKR1
+INT1,03/11/2021,Liverpool,Ath Madrid,2,0,H,ENG1,ESP1
+INT1,03/11/2021,Man City,Club Brugge,4,1,H,ENG1,BEL1
+INT1,03/11/2021,Dortmund,Ajax,1,3,A,DEU1,NLD1
+INT1,03/11/2021,Sp Lisbon,Besiktas,4,0,H,PRT1,TUR1
+INT1,03/11/2021,FC Sheriff Tiraspol,Inter,1,3,A,MDA1,ITA1
+INT1,03/11/2021,RB Leipzig,Paris SG,2,2,D,DEU1,FRA1
+INT1,23/11/2021,Villarreal,Man United,0,2,A,ESP1,ENG1
+INT1,23/11/2021,Dynamo Kiev,Bayern Munich,1,2,A,UKR1,DEU1
+INT1,23/11/2021,Chelsea,Juventus,4,0,H,ENG1,ITA1
+INT1,23/11/2021,Barcelona,Benfica,0,0,D,ESP1,PRT1
+INT1,23/11/2021,Malmo FF,Zenit St Petersburg,1,1,D,SWE1,RUS1
+INT1,23/11/2021,Young Boys,Atalanta,3,3,D,CHE1,ITA1
+INT1,23/11/2021,Lille,RB Salzburg,1,0,H,FRA1,AUT1
+INT1,23/11/2021,Sevilla,Wolfsburg,2,0,H,ESP1,DEU1
+INT1,24/11/2021,Inter,Shakhtar Donetsk,2,0,H,ITA1,UKR1
+INT1,24/11/2021,Besiktas,Ajax,1,2,A,TUR1,NLD1
+INT1,24/11/2021,Club Brugge,RB Leipzig,0,5,A,BEL1,DEU1
+INT1,24/11/2021,Liverpool,Porto,2,0,H,ENG1,PRT1
+INT1,24/11/2021,Man City,Paris SG,2,1,H,ENG1,FRA1
+INT1,24/11/2021,Ath Madrid,Milan,0,1,A,ESP1,ITA1
+INT1,24/11/2021,Sp Lisbon,Dortmund,3,1,H,PRT1,DEU1
+INT1,24/11/2021,FC Sheriff Tiraspol,Real Madrid,0,3,A,MDA1,ESP1
+INT1,07/12/2021,Paris SG,Club Brugge,4,1,H,FRA1,BEL1
+INT1,07/12/2021,RB Leipzig,Man City,2,1,H,DEU1,ENG1
+INT1,07/12/2021,Ajax,Sp Lisbon,4,2,H,NLD1,PRT1
+INT1,07/12/2021,Milan,Liverpool,1,2,A,ITA1,ENG1
+INT1,07/12/2021,Real Madrid,Inter,2,0,H,ESP1,ITA1
+INT1,07/12/2021,Dortmund,Besiktas,5,0,H,DEU1,TUR1
+INT1,07/12/2021,Shakhtar Donetsk,FC Sheriff Tiraspol,1,1,D,UKR1,MDA1
+INT1,07/12/2021,Porto,Ath Madrid,1,3,A,PRT1,ESP1
+INT1,08/12/2021,Juventus,Malmo FF,1,0,H,ITA1,SWE1
+INT1,08/12/2021,Zenit St Petersburg,Chelsea,3,3,D,RUS1,ENG1
+INT1,08/12/2021,Man United,Young Boys,1,1,D,ENG1,CHE1
+INT1,08/12/2021,RB Salzburg,Sevilla,1,0,H,AUT1,ESP1
+INT1,08/12/2021,Wolfsburg,Lille,1,3,A,DEU1,FRA1
+INT1,08/12/2021,Bayern Munich,Barcelona,3,0,H,DEU1,ESP1
+INT1,08/12/2021,Benfica,Dynamo Kiev,2,0,H,PRT1,UKR1
+INT1,09/12/2021,Atalanta,Villarreal,2,3,A,ITA1,ESP1
+INT1,15/02/2022,Sp Lisbon,Man City,0,5,A,PRT1,ENG1
+INT1,15/02/2022,Paris SG,Real Madrid,1,0,H,FRA1,ESP1
+INT1,16/02/2022,RB Salzburg,Bayern Munich,1,1,D,AUT1,DEU1
+INT1,16/02/2022,Inter,Liverpool,0,2,A,ITA1,ENG1
+INT1,22/02/2022,Chelsea,Lille,2,0,H,ENG1,FRA1
+INT1,22/02/2022,Villarreal,Juventus,1,1,D,ESP1,ITA1
+INT1,23/02/2022,Ath Madrid,Man United,1,1,D,ESP1,ENG1
+INT1,23/02/2022,Benfica,Ajax,2,2,D,PRT1,NLD1
+INT1,08/03/2022,Liverpool,Inter,0,1,A,ENG1,ITA1
+INT1,08/03/2022,Bayern Munich,RB Salzburg,7,1,H,DEU1,AUT1
+INT1,09/03/2022,Man City,Sp Lisbon,0,0,D,ENG1,PRT1
+INT1,09/03/2022,Real Madrid,Paris SG,3,1,H,ESP1,FRA1
+INT1,15/03/2022,Man United,Ath Madrid,0,1,A,ENG1,ESP1
+INT1,15/03/2022,Ajax,Benfica,0,1,A,NLD1,PRT1
+INT1,16/03/2022,Juventus,Villarreal,0,3,A,ITA1,ESP1
+INT1,16/03/2022,Lille,Chelsea,1,2,A,FRA1,ENG1
+INT1,05/04/2022,Man City,Ath Madrid,1,0,H,ENG1,ESP1
+INT1,05/04/2022,Benfica,Liverpool,1,3,A,PRT1,ENG1
+INT1,06/04/2022,Chelsea,Real Madrid,1,3,A,ENG1,ESP1
+INT1,06/04/2022,Villarreal,Bayern Munich,1,0,H,ESP1,DEU1
+INT1,12/04/2022,Real Madrid,Chelsea,2,3,A,ESP1,ENG1
+INT1,12/04/2022,Bayern Munich,Villarreal,1,1,D,DEU1,ESP1
+INT1,13/04/2022,Liverpool,Benfica,3,3,D,ENG1,PRT1
+INT1,13/04/2022,Ath Madrid,Man City,0,0,D,ESP1,ENG1
+INT1,26/04/2022,Man City,Real Madrid,4,3,H,ENG1,ESP1
+INT1,27/04/2022,Liverpool,Villarreal,2,0,H,ENG1,ESP1
+INT1,03/05/2022,Villarreal,Liverpool,2,3,A,ESP1,ENG1
+INT1,04/05/2022,Real Madrid,Man City,3,1,H,ESP1,ENG1
+INT1,28/05/2022,Liverpool,Real Madrid,0,1,A,ENG1,ESP1

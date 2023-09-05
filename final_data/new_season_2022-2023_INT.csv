@@ -1,0 +1,126 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeDiv,AwayDiv
+INT1,06/09/2022,Dortmund,FC Copenhagen,3,0,H,DEU1,DNK1
+INT1,06/09/2022,Benfica,Maccabi Haifa,2,0,H,PRT1,ISR1
+INT1,06/09/2022,Sevilla,Man City,0,4,A,ESP1,ENG1
+INT1,06/09/2022,RB Leipzig,Shakhtar Donetsk,1,4,A,DEU1,UKR1
+INT1,06/09/2022,Dinamo Zagreb,Chelsea,1,0,H,HRV1,ENG1
+INT1,06/09/2022,RB Salzburg,Milan,1,1,D,AUT1,ITA1
+INT1,06/09/2022,Celtic,Real Madrid,0,3,A,SCO1,ESP1
+INT1,06/09/2022,Paris SG,Juventus,2,1,H,FRA1,ITA1
+INT1,07/09/2022,Ajax,Rangers,4,0,H,NLD1,SCO1
+INT1,07/09/2022,Ein Frankfurt,Sp Lisbon,0,3,A,DEU1,PRT1
+INT1,07/09/2022,Tottenham,Marseille,2,0,H,ENG1,FRA1
+INT1,07/09/2022,Ath Madrid,Porto,2,1,H,ESP1,PRT1
+INT1,07/09/2022,Barcelona,Viktoria Plzen,5,1,H,ESP1,CZE1
+INT1,07/09/2022,Club Brugge,Leverkusen,1,0,H,BEL1,DEU1
+INT1,07/09/2022,Inter,Bayern Munich,0,2,A,ITA1,DEU1
+INT1,07/09/2022,Napoli,Liverpool,4,1,H,ITA1,ENG1
+INT1,13/09/2022,Marseille,Ein Frankfurt,0,1,A,FRA1,DEU1
+INT1,13/09/2022,Liverpool,Ajax,2,1,H,ENG1,NLD1
+INT1,13/09/2022,Porto,Club Brugge,0,4,A,PRT1,BEL1
+INT1,13/09/2022,Sp Lisbon,Tottenham,2,0,H,PRT1,ENG1
+INT1,13/09/2022,Leverkusen,Ath Madrid,2,0,H,DEU1,ESP1
+INT1,13/09/2022,Viktoria Plzen,Inter,0,2,A,CZE1,ITA1
+INT1,13/09/2022,Bayern Munich,Barcelona,2,0,H,DEU1,ESP1
+INT1,14/09/2022,Maccabi Haifa,Paris SG,1,3,A,ISR1,FRA1
+INT1,14/09/2022,Man City,Dortmund,2,1,H,ENG1,DEU1
+INT1,14/09/2022,Juventus,Benfica,1,2,A,ITA1,PRT1
+INT1,14/09/2022,Real Madrid,RB Leipzig,2,0,H,ESP1,DEU1
+INT1,14/09/2022,Chelsea,RB Salzburg,1,1,D,ENG1,AUT1
+INT1,14/09/2022,Rangers,Napoli,0,3,A,SCO1,ITA1
+INT1,14/09/2022,Shakhtar Donetsk,Celtic,1,1,D,UKR1,SCO1
+INT1,14/09/2022,FC Copenhagen,Sevilla,0,0,D,DNK1,ESP1
+INT1,14/09/2022,Milan,Dinamo Zagreb,3,1,H,ITA1,HRV1
+INT1,04/10/2022,Ajax,Napoli,1,6,A,NLD1,ITA1
+INT1,04/10/2022,Liverpool,Rangers,2,0,H,ENG1,SCO1
+INT1,04/10/2022,Inter,Barcelona,1,0,H,ITA1,ESP1
+INT1,04/10/2022,Club Brugge,Ath Madrid,2,0,H,BEL1,ESP1
+INT1,04/10/2022,Ein Frankfurt,Tottenham,0,0,D,DEU1,ENG1
+INT1,04/10/2022,Marseille,Sp Lisbon,4,1,H,FRA1,PRT1
+INT1,04/10/2022,Bayern Munich,Viktoria Plzen,5,0,H,DEU1,CZE1
+INT1,04/10/2022,Porto,Leverkusen,2,0,H,PRT1,DEU1
+INT1,05/10/2022,Real Madrid,Shakhtar Donetsk,2,1,H,ESP1,UKR1
+INT1,05/10/2022,Man City,FC Copenhagen,5,0,H,ENG1,DNK1
+INT1,05/10/2022,Chelsea,Milan,3,0,H,ENG1,ITA1
+INT1,05/10/2022,Juventus,Maccabi Haifa,3,1,H,ITA1,ISR1
+INT1,05/10/2022,Sevilla,Dortmund,1,4,A,ESP1,DEU1
+INT1,05/10/2022,RB Leipzig,Celtic,3,1,H,DEU1,SCO1
+INT1,05/10/2022,RB Salzburg,Dinamo Zagreb,1,0,H,AUT1,HRV1
+INT1,05/10/2022,Benfica,Paris SG,1,1,D,PRT1,FRA1
+INT1,11/10/2022,Paris SG,Benfica,1,1,D,FRA1,PRT1
+INT1,11/10/2022,Dortmund,Sevilla,1,1,D,DEU1,ESP1
+INT1,11/10/2022,Shakhtar Donetsk,Real Madrid,1,1,D,UKR1,ESP1
+INT1,11/10/2022,Maccabi Haifa,Juventus,2,0,H,ISR1,ITA1
+INT1,11/10/2022,Dinamo Zagreb,RB Salzburg,1,1,D,HRV1,AUT1
+INT1,11/10/2022,Celtic,RB Leipzig,0,2,A,SCO1,DEU1
+INT1,11/10/2022,FC Copenhagen,Man City,0,0,D,DNK1,ENG1
+INT1,11/10/2022,Milan,Chelsea,0,2,A,ITA1,ENG1
+INT1,12/10/2022,Ath Madrid,Club Brugge,0,0,D,ESP1,BEL1
+INT1,12/10/2022,Napoli,Ajax,4,2,H,ITA1,NLD1
+INT1,12/10/2022,Tottenham,Ein Frankfurt,3,2,H,ENG1,DEU1
+INT1,12/10/2022,Viktoria Plzen,Bayern Munich,2,4,A,CZE1,DEU1
+INT1,12/10/2022,Barcelona,Inter,3,3,D,ESP1,ITA1
+INT1,12/10/2022,Leverkusen,Porto,0,3,A,DEU1,PRT1
+INT1,12/10/2022,Rangers,Liverpool,1,7,A,SCO1,ENG1
+INT1,12/10/2022,Sp Lisbon,Marseille,0,2,A,PRT1,FRA1
+INT1,25/10/2022,RB Salzburg,Chelsea,1,2,A,AUT1,ENG1
+INT1,25/10/2022,Sevilla,FC Copenhagen,3,0,H,ESP1,DNK1
+INT1,25/10/2022,Benfica,Juventus,4,3,H,PRT1,ITA1
+INT1,25/10/2022,Dortmund,Man City,0,0,D,DEU1,ENG1
+INT1,25/10/2022,Celtic,Shakhtar Donetsk,1,1,D,SCO1,UKR1
+INT1,25/10/2022,Dinamo Zagreb,Milan,0,4,A,HRV1,ITA1
+INT1,25/10/2022,Paris SG,Maccabi Haifa,7,2,H,FRA1,ISR1
+INT1,25/10/2022,RB Leipzig,Real Madrid,3,2,H,DEU1,ESP1
+INT1,26/10/2022,Tottenham,Sp Lisbon,1,1,D,ENG1,PRT1
+INT1,26/10/2022,Napoli,Rangers,3,0,H,ITA1,SCO1
+INT1,26/10/2022,Barcelona,Bayern Munich,0,3,A,ESP1,DEU1
+INT1,26/10/2022,Ein Frankfurt,Marseille,2,1,H,DEU1,FRA1
+INT1,26/10/2022,Ajax,Liverpool,0,3,A,NLD1,ENG1
+INT1,26/10/2022,Inter,Viktoria Plzen,4,0,H,ITA1,CZE1
+INT1,26/10/2022,Club Brugge,Porto,0,4,A,BEL1,PRT1
+INT1,26/10/2022,Ath Madrid,Leverkusen,2,2,D,ESP1,DEU1
+INT1,01/11/2022,Leverkusen,Club Brugge,0,0,D,DEU1,BEL1
+INT1,01/11/2022,Porto,Ath Madrid,2,1,H,PRT1,ESP1
+INT1,01/11/2022,Bayern Munich,Inter,2,0,H,DEU1,ITA1
+INT1,01/11/2022,Marseille,Tottenham,1,2,A,FRA1,ENG1
+INT1,01/11/2022,Rangers,Ajax,1,3,A,SCO1,NLD1
+INT1,01/11/2022,Sp Lisbon,Ein Frankfurt,1,2,A,PRT1,DEU1
+INT1,01/11/2022,Viktoria Plzen,Barcelona,2,4,A,CZE1,ESP1
+INT1,01/11/2022,Liverpool,Napoli,2,0,H,ENG1,ITA1
+INT1,02/11/2022,Maccabi Haifa,Benfica,1,6,A,ISR1,PRT1
+INT1,02/11/2022,Milan,RB Salzburg,4,0,H,ITA1,AUT1
+INT1,02/11/2022,Juventus,Paris SG,1,2,A,ITA1,FRA1
+INT1,02/11/2022,Man City,Sevilla,3,1,H,ENG1,ESP1
+INT1,02/11/2022,Chelsea,Dinamo Zagreb,2,1,H,ENG1,HRV1
+INT1,02/11/2022,Real Madrid,Celtic,5,1,H,ESP1,SCO1
+INT1,02/11/2022,Shakhtar Donetsk,RB Leipzig,0,4,A,UKR1,DEU1
+INT1,02/11/2022,FC Copenhagen,Dortmund,1,1,D,DNK1,DEU1
+INT1,14/02/2023,Milan,Tottenham,1,0,H,ITA1,ENG1
+INT1,14/02/2023,Paris SG,Bayern Munich,0,1,A,FRA1,DEU1
+INT1,15/02/2023,Club Brugge,Benfica,0,2,A,BEL1,PRT1
+INT1,15/02/2023,Dortmund,Chelsea,1,0,H,DEU1,ENG1
+INT1,21/02/2023,Ein Frankfurt,Napoli,0,2,A,DEU1,ITA1
+INT1,21/02/2023,Liverpool,Real Madrid,2,5,A,ENG1,ESP1
+INT1,22/02/2023,RB Leipzig,Man City,1,1,D,DEU1,ENG1
+INT1,22/02/2023,Inter,Porto,1,0,H,ITA1,PRT1
+INT1,07/03/2023,Benfica,Club Brugge,5,1,H,PRT1,BEL1
+INT1,07/03/2023,Chelsea,Dortmund,2,0,H,ENG1,DEU1
+INT1,08/03/2023,Bayern Munich,Paris SG,2,0,H,DEU1,FRA1
+INT1,08/03/2023,Tottenham,Milan,0,0,D,ENG1,ITA1
+INT1,14/03/2023,Man City,RB Leipzig,7,0,H,ENG1,DEU1
+INT1,14/03/2023,Porto,Inter,0,0,D,PRT1,ITA1
+INT1,15/03/2023,Napoli,Ein Frankfurt,3,0,H,ITA1,DEU1
+INT1,15/03/2023,Real Madrid,Liverpool,1,0,H,ESP1,ENG1
+INT1,11/04/2023,Benfica,Inter,0,2,A,PRT1,ITA1
+INT1,11/04/2023,Man City,Bayern Munich,3,0,H,ENG1,DEU1
+INT1,12/04/2023,Milan,Napoli,1,0,H,ITA1,ITA1
+INT1,12/04/2023,Real Madrid,Chelsea,2,0,H,ESP1,ENG1
+INT1,18/04/2023,Chelsea,Real Madrid,0,2,A,ENG1,ESP1
+INT1,18/04/2023,Napoli,Milan,1,1,D,ITA1,ITA1
+INT1,19/04/2023,Bayern Munich,Man City,1,1,D,DEU1,ENG1
+INT1,19/04/2023,Inter,Benfica,3,3,D,ITA1,PRT1
+INT1,09/05/2023,Real Madrid,Man City,1,1,D,ESP1,ENG1
+INT1,10/05/2023,Milan,Inter,0,2,A,ITA1,ITA1
+INT1,16/05/2023,Inter,Milan,1,0,H,ITA1,ITA1
+INT1,17/05/2023,Man City,Real Madrid,4,0,H,ENG1,ESP1
+INT1,10/06/2023,Man City,Inter,1,0,H,ENG1,ITA1
